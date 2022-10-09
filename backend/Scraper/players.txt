@@ -1,11 +1,11 @@
 Joe Thornton
-Alexander Ovechkin
+Alex Ovechkin
 Sidney Crosby
 Patrick Kane
 Evgeni Malkin
 Anze Kopitar
 Eric Staal
-Nicklas Bäckström
+Nicklas Backstrom
 Patrice Bergeron
 Steven Stamkos
 Phil Kessel
@@ -18,7 +18,7 @@ Jonathan Toews
 Zach Parise
 Jeff Carter
 Paul Stastny
-Jakub Vorácek
+Jakub Voracek
 Brad Marchand
 Brent Burns
 Jamie Benn
@@ -63,7 +63,7 @@ Evander Kane
 Mark Giordano
 Jeff Skinner
 Roman Josi
-Patric Hörnqvist
+Patric Hornqvist
 Ryan Nugent-Hopkins
 Ryan Johansen
 Wayne Simmonds
