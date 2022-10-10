@@ -5,12 +5,11 @@ import com.google.gson.*;
 import java.io.IOException;
 import java.net.MalformedURLException;
 import com.gargoylesoftware.htmlunit.ElementNotFoundException;
-import java.io.File;
+import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Scanner;
 import java.util.logging.Level;
 
 // TODO: Think about adding threading to decrease runtime
@@ -22,64 +21,62 @@ public class Main {
 
         java.util.logging.Logger.getLogger("com.gargoylesoftware").setLevel(Level.OFF);
         final String URL = "https://www.nhl.com/player/";
+
         List<Player> players = new ArrayList<>();
         List<String> failed = new ArrayList<>();
 
         try {
-            webClient = new WebClient();
-            webClient.getOptions().setThrowExceptionOnScriptError(false);
+            String[] names = Files.readString(Path.of("players.txt"), StandardCharsets.UTF_8).split("\n");
 
-            File file = new File("players.txt");
-            Scanner s = new Scanner(file);
-
-            String player = null;
-
-            while (s.hasNext()) {
+            for (String name : names) {
                 try {
-                    player = s.nextLine().strip();
-                    HtmlPage playerPage = getPlayerPage(URL, player);
-                    Player details = getPlayerDetails(playerPage, player);
+                    webClient = new WebClient();
+                    webClient.getOptions().setCssEnabled(false);
+                    webClient.getOptions().setPopupBlockerEnabled(true);
+                    webClient.getOptions().setThrowExceptionOnScriptError(false);
+
+                    HtmlPage playerPage = getPlayerPage(URL, name);
+                    Player details = getPlayerDetails(playerPage, name);
                     players.add(details);
                 } catch (FailingHttpStatusCodeException | MalformedURLException |
                          ElementNotFoundException | IndexOutOfBoundsException |
                          NullPointerException e) {
-                    System.out.println("Could not fetch details for " + player);
-                    failed.add(player);
+                    System.out.println("Could not fetch details for " + name);
+                    failed.add(name);
                 }
             }
-
-            s.close();
             writeToFile(players, failed);
-
-
         } catch (Exception e) {
             System.out.println(e.getMessage());
         }
     }
 
-    public static HtmlPage getPlayerPage(String URL, String name) throws Exception{
+    public static HtmlPage getPlayerPage(String URL, String name) throws Exception {
 
         final HtmlPage page = webClient.getPage(URL);
-        webClient.waitForBackgroundJavaScript(10000);
+        webClient.waitForBackgroundJavaScript(15000);
 
         HtmlTextInput input = page.getHtmlElementById("searchTerm");
         input.setValue(name);
 
-        webClient.waitForBackgroundJavaScript(10000);
+        webClient.waitForBackgroundJavaScript(15000);
 
-        List<HtmlAnchor> anchors = page.getAnchors();
+        List<HtmlAnchor> anchors = page.getByXPath("//td[@class='results-table__player-td']//a[@class='name-link']");
         HtmlPage playerPage = null;
+        String href = String.join("-", name.split(" ")).toLowerCase();
 
+        System.out.println("Finding anchor.....");
         for (HtmlAnchor anchor : anchors) {
-            if (anchor.getHrefAttribute().contains(String.join("-", name.split(" ")).toLowerCase())) {
+            if (anchor.getHrefAttribute().contains(href)) {
                 playerPage = anchor.click();
                 break;
             }
         }
 
-        webClient.waitForBackgroundJavaScript(10000);
-
-        if (playerPage == null) { throw new NullPointerException(); }
+        webClient.waitForBackgroundJavaScript(15000);
+        if (playerPage == null) {
+            throw new NullPointerException();
+        }
 
         return playerPage;
     }
@@ -125,7 +122,7 @@ public class Main {
 
         @Override
         public String toString() {
-            return  "Name: " + this.name + "\n" +
+            return "Name: " + this.name + "\n" +
                     "Position: " + this.position + "\n" +
                     "Age: " + this.age + "\n" +
                     "Team: " + this.team + "\n" +

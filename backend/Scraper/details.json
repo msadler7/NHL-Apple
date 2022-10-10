@@ -1,1 +1,5450 @@
-[{"name":"Alex Ovechkin","position":"LW","age":" 37","team":"Washington Capitals","born":" RUS","shoots":" Right"}]
+[
+  {
+    "name": "Alex Ovechkin",
+    "position": "LW",
+    "age": " 37",
+    "team": "Washington Capitals",
+    "born": " RUS",
+    "shoots": " Right"
+  },
+  {
+    "name": "Sidney Crosby",
+    "position": "C",
+    "age": " 35",
+    "team": "Pittsburgh Penguins",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Patrick Kane",
+    "position": "RW",
+    "age": " 33",
+    "team": "Chicago Blackhawks",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Evgeni Malkin",
+    "position": "C",
+    "age": " 36",
+    "team": "Pittsburgh Penguins",
+    "born": " RUS",
+    "shoots": " Left"
+  },
+  {
+    "name": "Anze Kopitar",
+    "position": "C",
+    "age": " 35",
+    "team": "Los Angeles Kings",
+    "born": " SVN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Nicklas Backstrom",
+    "position": "C",
+    "age": " 34",
+    "team": "Washington Capitals",
+    "born": " SWE",
+    "shoots": " Left"
+  },
+  {
+    "name": "Patrice Bergeron",
+    "position": "C",
+    "age": " 37",
+    "team": "Boston Bruins",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Steven Stamkos",
+    "position": "C",
+    "age": " 32",
+    "team": "Tampa Bay Lightning",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Phil Kessel",
+    "position": "C",
+    "age": " 35",
+    "team": "Vegas Golden Knights",
+    "born": " USA",
+    "shoots": " Right"
+  },
+  {
+    "name": "Joe Pavelski",
+    "position": "C",
+    "age": " 38",
+    "team": "Dallas Stars",
+    "born": " USA",
+    "shoots": " Right"
+  },
+  {
+    "name": "Claude Giroux",
+    "position": "RW",
+    "age": " 34",
+    "team": "Ottawa Senators",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Blake Wheeler",
+    "position": "RW",
+    "age": " 36",
+    "team": "Winnipeg Jets",
+    "born": " USA",
+    "shoots": " Right"
+  },
+  {
+    "name": "Corey Perry",
+    "position": "RW",
+    "age": " 37",
+    "team": "Tampa Bay Lightning",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Jonathan Toews",
+    "position": "C",
+    "age": " 34",
+    "team": "Chicago Blackhawks",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Zach Parise",
+    "position": "LW",
+    "age": " 38",
+    "team": "New York Islanders",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Jeff Carter",
+    "position": "C",
+    "age": " 37",
+    "team": "Pittsburgh Penguins",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Paul Stastny",
+    "position": "C",
+    "age": " 36",
+    "team": "Carolina Hurricanes",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Jakub Voracek",
+    "position": "RW",
+    "age": " 33",
+    "team": "Columbus Blue Jackets",
+    "born": " CZE",
+    "shoots": " Left"
+  },
+  {
+    "name": "Brad Marchand",
+    "position": "LW",
+    "age": " 34",
+    "team": "Boston Bruins",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Brent Burns",
+    "position": "D",
+    "age": " 37",
+    "team": "Carolina Hurricanes",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Jamie Benn",
+    "position": "LW",
+    "age": " 33",
+    "team": "Dallas Stars",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Connor McDavid",
+    "position": "C",
+    "age": " 25",
+    "team": "Edmonton Oilers",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Matt Duchene",
+    "position": "C",
+    "age": " 31",
+    "team": "Nashville Predators",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Tyler Seguin",
+    "position": "C",
+    "age": " 30",
+    "team": "Dallas Stars",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "David Perron",
+    "position": "LW",
+    "age": " 34",
+    "team": "Detroit Red Wings",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Erik Karlsson",
+    "position": "D",
+    "age": " 32",
+    "team": "San Jose Sharks",
+    "born": " SWE",
+    "shoots": " Right"
+  },
+  {
+    "name": "Nathan MacKinnon",
+    "position": "C",
+    "age": " 27",
+    "team": "Colorado Avalanche",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Duncan Keith",
+    "position": "D",
+    "age": " 39",
+    "team": "Edmonton Oilers",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Max Pacioretty",
+    "position": "LW",
+    "age": " 33",
+    "team": "Carolina Hurricanes",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Ryan Suter",
+    "position": "D",
+    "age": " 37",
+    "team": "Dallas Stars",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Logan Couture",
+    "position": "C",
+    "age": " 33",
+    "team": "San Jose Sharks",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Leon Draisaitl",
+    "position": "C",
+    "age": " 26",
+    "team": "Edmonton Oilers",
+    "born": " DEU",
+    "shoots": " Left"
+  },
+  {
+    "name": "Nikita Kucherov",
+    "position": "RW",
+    "age": " 29",
+    "team": "Tampa Bay Lightning",
+    "born": " RUS",
+    "shoots": " Left"
+  },
+  {
+    "name": "Jonathan Huberdeau",
+    "position": "C",
+    "age": " 29",
+    "team": "Calgary Flames",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Jordan Staal",
+    "position": "C",
+    "age": " 34",
+    "team": "Carolina Hurricanes",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Johnny Gaudreau",
+    "position": "LW",
+    "age": " 29",
+    "team": "Columbus Blue Jackets",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Victor Hedman",
+    "position": "D",
+    "age": " 31",
+    "team": "Tampa Bay Lightning",
+    "born": " SWE",
+    "shoots": " Left"
+  },
+  {
+    "name": "Jordan Eberle",
+    "position": "RW",
+    "age": " 32",
+    "team": "Seattle Kraken",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "John Carlson",
+    "position": "D",
+    "age": " 32",
+    "team": "Washington Capitals",
+    "born": " USA",
+    "shoots": " Right"
+  },
+  {
+    "name": "Gabriel Landeskog",
+    "position": "LW",
+    "age": " 29",
+    "team": "Colorado Avalanche",
+    "born": " SWE",
+    "shoots": " Left"
+  },
+  {
+    "name": "Artemi Panarin",
+    "position": "LW",
+    "age": " 30",
+    "team": "New York Rangers",
+    "born": " RUS",
+    "shoots": " Right"
+  },
+  {
+    "name": "Drew Doughty",
+    "position": "D",
+    "age": " 32",
+    "team": "Los Angeles Kings",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Milan Lucic",
+    "position": "LW",
+    "age": " 34",
+    "team": "Calgary Flames",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Kyle Okposo",
+    "position": "RW",
+    "age": " 34",
+    "team": "Buffalo Sabres",
+    "born": " USA",
+    "shoots": " Right"
+  },
+  {
+    "name": "James van Riemsdyk",
+    "position": "LW",
+    "age": " 33",
+    "team": "Philadelphia Flyers",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Aleksander Barkov",
+    "position": "C",
+    "age": " 27",
+    "team": "Florida Panthers",
+    "born": " FIN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Andrew Ladd",
+    "position": "LW",
+    "age": " 36",
+    "team": "Arizona Coyotes",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Evander Kane",
+    "position": "LW",
+    "age": " 31",
+    "team": "Edmonton Oilers",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Mark Giordano",
+    "position": "D",
+    "age": " 39",
+    "team": "Toronto Maple Leafs",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Jeff Skinner",
+    "position": "LW",
+    "age": " 30",
+    "team": "Buffalo Sabres",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Roman Josi",
+    "position": "D",
+    "age": " 32",
+    "team": "Nashville Predators",
+    "born": " CHE",
+    "shoots": " Left"
+  },
+  {
+    "name": "Patric Hornqvist",
+    "position": "RW",
+    "age": " 35",
+    "team": "Florida Panthers",
+    "born": " SWE",
+    "shoots": " Right"
+  },
+  {
+    "name": "Ryan Nugent-Hopkins",
+    "position": "C",
+    "age": " 29",
+    "team": "Edmonton Oilers",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Ryan Johansen",
+    "position": "C",
+    "age": " 30",
+    "team": "Nashville Predators",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Wayne Simmonds",
+    "position": "RW",
+    "age": " 34",
+    "team": "Toronto Maple Leafs",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Vladimir Tarasenko",
+    "position": "RW",
+    "age": " 30",
+    "team": "St. Louis Blues",
+    "born": " RUS",
+    "shoots": " Left"
+  },
+  {
+    "name": "Brayden Schenn",
+    "position": "C",
+    "age": " 31",
+    "team": "St. Louis Blues",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Alex Pietrangelo",
+    "position": "D",
+    "age": " 32",
+    "team": "Vegas Golden Knights",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Nazem Kadri",
+    "position": "C",
+    "age": " 32",
+    "team": "Calgary Flames",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Mats Zuccarello",
+    "position": "RW",
+    "age": " 35",
+    "team": "Minnesota Wild",
+    "born": " NOR",
+    "shoots": " Left"
+  },
+  {
+    "name": "Sam Gagner",
+    "position": "C",
+    "age": " 33",
+    "team": "Winnipeg Jets",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "David Pastrnak",
+    "position": "RW",
+    "age": " 26",
+    "team": "Boston Bruins",
+    "born": " CZE",
+    "shoots": " Right"
+  },
+  {
+    "name": "Nick Foligno",
+    "position": "LW",
+    "age": " 34",
+    "team": "Boston Bruins",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Evgeny Kuznetsov",
+    "position": "C",
+    "age": " 30",
+    "team": "Washington Capitals",
+    "born": " RUS",
+    "shoots": " Left"
+  },
+  {
+    "name": "Filip Forsberg",
+    "position": "LW",
+    "age": " 28",
+    "team": "Nashville Predators",
+    "born": " SWE",
+    "shoots": " Right"
+  },
+  {
+    "name": "Sean Monahan",
+    "position": "C",
+    "age": " 27",
+    "team": "Montréal Canadiens",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Sean Couturier",
+    "position": "C",
+    "age": " 29",
+    "team": "Philadelphia Flyers",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Alex Goligoski",
+    "position": "D",
+    "age": " 37",
+    "team": "Minnesota Wild",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Auston Matthews",
+    "position": "C",
+    "age": " 25",
+    "team": "Toronto Maple Leafs",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Mitchell Marner",
+    "position": "RW",
+    "age": " 25",
+    "team": "Toronto Maple Leafs",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Cam Atkinson",
+    "position": "RW",
+    "age": " 33",
+    "team": "Philadelphia Flyers",
+    "born": " USA",
+    "shoots": " Right"
+  },
+  {
+    "name": "Elias Lindholm",
+    "position": "C",
+    "age": " 27",
+    "team": "Calgary Flames",
+    "born": " SWE",
+    "shoots": " Right"
+  },
+  {
+    "name": "Mikael Granlund",
+    "position": "C",
+    "age": " 30",
+    "team": "Nashville Predators",
+    "born": " FIN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Adam Henrique",
+    "position": "C",
+    "age": " 32",
+    "team": "Anaheim Ducks",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Mikael Backlund",
+    "position": "C",
+    "age": " 33",
+    "team": "Calgary Flames",
+    "born": " SWE",
+    "shoots": " Left"
+  },
+  {
+    "name": "Tyson Barrie",
+    "position": "D",
+    "age": " 31",
+    "team": "Edmonton Oilers",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Kevin Shattenkirk",
+    "position": "D",
+    "age": " 33",
+    "team": "Anaheim Ducks",
+    "born": " USA",
+    "shoots": " Right"
+  },
+  {
+    "name": "Alexander Edler",
+    "position": "D",
+    "age": " 36",
+    "team": "Los Angeles Kings",
+    "born": " SWE",
+    "shoots": " Left"
+  },
+  {
+    "name": "Andrew Cogliano",
+    "position": "C",
+    "age": " 35",
+    "team": "Colorado Avalanche",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Chris Kreider",
+    "position": "LW",
+    "age": " 31",
+    "team": "New York Rangers",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Ondrej Palat",
+    "position": "LW",
+    "age": " 31",
+    "team": "New Jersey Devils",
+    "born": " CZE",
+    "shoots": " Left"
+  },
+  {
+    "name": "Brandon Saad",
+    "position": "LW",
+    "age": " 29",
+    "team": "St. Louis Blues",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Reilly Smith",
+    "position": "RW",
+    "age": " 31",
+    "team": "Vegas Golden Knights",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Oliver Ekman-Larsson",
+    "position": "D",
+    "age": " 31",
+    "team": "Vancouver Canucks",
+    "born": " SWE",
+    "shoots": " Left"
+  },
+  {
+    "name": "Torey Krug",
+    "position": "D",
+    "age": " 31",
+    "team": "St. Louis Blues",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Mikko Rantanen",
+    "position": "RW",
+    "age": " 25",
+    "team": "Colorado Avalanche",
+    "born": " FIN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Jaden Schwartz",
+    "position": "C",
+    "age": " 30",
+    "team": "Seattle Kraken",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Tomas Tatar",
+    "position": "LW",
+    "age": " 31",
+    "team": "New Jersey Devils",
+    "born": " SVK",
+    "shoots": " Left"
+  },
+  {
+    "name": "Marcus Johansson",
+    "position": "LW",
+    "age": " 32",
+    "team": "Washington Capitals",
+    "born": " SWE",
+    "shoots": " Left"
+  },
+  {
+    "name": "Alex Killorn",
+    "position": "LW",
+    "age": " 33",
+    "team": "Tampa Bay Lightning",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Sebastian Aho",
+    "position": "C",
+    "age": " 25",
+    "team": "Carolina Hurricanes",
+    "born": " FIN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Gustav Nyquist",
+    "position": "LW",
+    "age": " 33",
+    "team": "Columbus Blue Jackets",
+    "born": " SWE",
+    "shoots": " Left"
+  },
+  {
+    "name": "Craig Smith",
+    "position": "C",
+    "age": " 33",
+    "team": "Boston Bruins",
+    "born": " USA",
+    "shoots": " Right"
+  },
+  {
+    "name": "Tyler Toffoli",
+    "position": "RW",
+    "age": " 30",
+    "team": "Calgary Flames",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Kyle Palmieri",
+    "position": "C",
+    "age": " 31",
+    "team": "New York Islanders",
+    "born": " USA",
+    "shoots": " Right"
+  },
+  {
+    "name": "Brock Nelson",
+    "position": "C",
+    "age": " 30",
+    "team": "New York Islanders",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Tomas Hertl",
+    "position": "C",
+    "age": " 28",
+    "team": "San Jose Sharks",
+    "born": " CZE",
+    "shoots": " Left"
+  },
+  {
+    "name": "Matthew Tkachuk",
+    "position": "LW",
+    "age": " 24",
+    "team": "Florida Panthers",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Brendan Gallagher",
+    "position": "RW",
+    "age": " 30",
+    "team": "Montréal Canadiens",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Jack Eichel",
+    "position": "C",
+    "age": " 25",
+    "team": "Vegas Golden Knights",
+    "born": " USA",
+    "shoots": " Right"
+  },
+  {
+    "name": "Vincent Trocheck",
+    "position": "C",
+    "age": " 29",
+    "team": "New York Rangers",
+    "born": " USA",
+    "shoots": " Right"
+  },
+  {
+    "name": "Sam Reinhart",
+    "position": "C",
+    "age": " 26",
+    "team": "Florida Panthers",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "John Klingberg",
+    "position": "D",
+    "age": " 30",
+    "team": "Anaheim Ducks",
+    "born": " SWE",
+    "shoots": " Right"
+  },
+  {
+    "name": "Morgan Rielly",
+    "position": "D",
+    "age": " 28",
+    "team": "Toronto Maple Leafs",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Dougie Hamilton",
+    "position": "D",
+    "age": " 29",
+    "team": "New Jersey Devils",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Nino Niederreiter",
+    "position": "RW",
+    "age": " 30",
+    "team": "Nashville Predators",
+    "born": " CHE",
+    "shoots": " Left"
+  },
+  {
+    "name": "Brayden Point",
+    "position": "C",
+    "age": " 26",
+    "team": "Tampa Bay Lightning",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Tyler Johnson",
+    "position": "C",
+    "age": " 32",
+    "team": "Chicago Blackhawks",
+    "born": " USA",
+    "shoots": " Right"
+  },
+  {
+    "name": "Anders Lee",
+    "position": "LW",
+    "age": " 32",
+    "team": "New York Islanders",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Bo Horvat",
+    "position": "C",
+    "age": " 27",
+    "team": "Vancouver Canucks",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Cam Fowler",
+    "position": "D",
+    "age": " 30",
+    "team": "Anaheim Ducks",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Jonathan Marchessault",
+    "position": "C",
+    "age": " 31",
+    "team": "Vegas Golden Knights",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Nick Leddy",
+    "position": "D",
+    "age": " 31",
+    "team": "St. Louis Blues",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Nikolaj Ehlers",
+    "position": "LW",
+    "age": " 26",
+    "team": "Winnipeg Jets",
+    "born": " DNK",
+    "shoots": " Left"
+  },
+  {
+    "name": "Dylan Larkin",
+    "position": "C",
+    "age": " 26",
+    "team": "Detroit Red Wings",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Ryan Strome",
+    "position": "C",
+    "age": " 29",
+    "team": "Anaheim Ducks",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Rickard Rakell",
+    "position": "RW",
+    "age": " 29",
+    "team": "Pittsburgh Penguins",
+    "born": " SWE",
+    "shoots": " Right"
+  },
+  {
+    "name": "Lars Eller",
+    "position": "C",
+    "age": " 33",
+    "team": "Washington Capitals",
+    "born": " DNK",
+    "shoots": " Left"
+  },
+  {
+    "name": "Justin Faulk",
+    "position": "D",
+    "age": " 30",
+    "team": "St. Louis Blues",
+    "born": " USA",
+    "shoots": " Right"
+  },
+  {
+    "name": "Charlie Coyle",
+    "position": "C",
+    "age": " 30",
+    "team": "Boston Bruins",
+    "born": " USA",
+    "shoots": " Right"
+  },
+  {
+    "name": "Jared Spurgeon",
+    "position": "D",
+    "age": " 32",
+    "team": "Minnesota Wild",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Kyle Connor",
+    "position": "LW",
+    "age": " 25",
+    "team": "Winnipeg Jets",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "William Nylander",
+    "position": "RW",
+    "age": " 26",
+    "team": "Toronto Maple Leafs",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Jake Guentzel",
+    "position": "LW",
+    "age": " 28",
+    "team": "Pittsburgh Penguins",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Ryan McDonagh",
+    "position": "D",
+    "age": " 33",
+    "team": "Nashville Predators",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Seth Jones",
+    "position": "D",
+    "age": " 28",
+    "team": "Chicago Blackhawks",
+    "born": " USA",
+    "shoots": " Right"
+  },
+  {
+    "name": "Nick Bonino",
+    "position": "C",
+    "age": " 34",
+    "team": "San Jose Sharks",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Kevin Hayes",
+    "position": "C",
+    "age": " 30",
+    "team": "Philadelphia Flyers",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Erik Johnson",
+    "position": "D",
+    "age": " 34",
+    "team": "Colorado Avalanche",
+    "born": " USA",
+    "shoots": " Right"
+  },
+  {
+    "name": "Jakob Silfverberg",
+    "position": "RW",
+    "age": " 31",
+    "team": "Anaheim Ducks",
+    "born": " SWE",
+    "shoots": " Right"
+  },
+  {
+    "name": "Patrik Laine",
+    "position": "LW",
+    "age": " 24",
+    "team": "Columbus Blue Jackets",
+    "born": " FIN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Tyler Myers",
+    "position": "D",
+    "age": " 32",
+    "team": "Vancouver Canucks",
+    "born": " USA",
+    "shoots": " Right"
+  },
+  {
+    "name": "Jeff Petry",
+    "position": "D",
+    "age": " 34",
+    "team": "Pittsburgh Penguins",
+    "born": " USA",
+    "shoots": " Right"
+  },
+  {
+    "name": "Max Domi",
+    "position": "C",
+    "age": " 27",
+    "team": "Chicago Blackhawks",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Jack Johnson",
+    "position": "D",
+    "age": " 35",
+    "team": "Chicago Blackhawks",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Mathew Barzal",
+    "position": "C",
+    "age": " 25",
+    "team": "New York Islanders",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Alex DeBrincat",
+    "position": "RW",
+    "age": " 24",
+    "team": "Ottawa Senators",
+    "born": " USA",
+    "shoots": " Right"
+  },
+  {
+    "name": "William Karlsson",
+    "position": "C",
+    "age": " 29",
+    "team": "Vegas Golden Knights",
+    "born": " SWE",
+    "shoots": " Left"
+  },
+  {
+    "name": "Carl Hagelin",
+    "position": "LW",
+    "age": " 34",
+    "team": "Washington Capitals",
+    "born": " SWE",
+    "shoots": " Left"
+  },
+  {
+    "name": "Andre Burakovsky",
+    "position": "LW",
+    "age": " 27",
+    "team": "Seattle Kraken",
+    "born": " AUT",
+    "shoots": " Left"
+  },
+  {
+    "name": "Jake Muzzin",
+    "position": "D",
+    "age": " 33",
+    "team": "Toronto Maple Leafs",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Aaron Ekblad",
+    "position": "D",
+    "age": " 26",
+    "team": "Florida Panthers",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Jason Zucker",
+    "position": "LW",
+    "age": " 30",
+    "team": "Pittsburgh Penguins",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Viktor Arvidsson",
+    "position": "LW",
+    "age": " 29",
+    "team": "Los Angeles Kings",
+    "born": " SWE",
+    "shoots": " Right"
+  },
+  {
+    "name": "Boone Jenner",
+    "position": "C",
+    "age": " 29",
+    "team": "Columbus Blue Jackets",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Kevin Fiala",
+    "position": "LW",
+    "age": " 26",
+    "team": "Los Angeles Kings",
+    "born": " CHE",
+    "shoots": " Left"
+  },
+  {
+    "name": "Ryan Ellis",
+    "position": "D",
+    "age": " 31",
+    "team": "Philadelphia Flyers",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Tom Wilson",
+    "position": "RW",
+    "age": " 28",
+    "team": "Washington Capitals",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Travis Konecny",
+    "position": "RW",
+    "age": " 25",
+    "team": "Philadelphia Flyers",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Pavel Buchnevich",
+    "position": "LW",
+    "age": " 27",
+    "team": "St. Louis Blues",
+    "born": " RUS",
+    "shoots": " Left"
+  },
+  {
+    "name": "Bryan Rust",
+    "position": "RW",
+    "age": " 30",
+    "team": "Pittsburgh Penguins",
+    "born": " USA",
+    "shoots": " Right"
+  },
+  {
+    "name": "Shayne Gostisbehere",
+    "position": "D",
+    "age": " 29",
+    "team": "Arizona Coyotes",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Tanner Pearson",
+    "position": "LW",
+    "age": " 30",
+    "team": "Vancouver Canucks",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Darren Helm",
+    "position": "C",
+    "age": " 35",
+    "team": "Colorado Avalanche",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Timo Meier",
+    "position": "RW",
+    "age": " 26",
+    "team": "San Jose Sharks",
+    "born": " CHE",
+    "shoots": " Left"
+  },
+  {
+    "name": "Justin Schultz",
+    "position": "D",
+    "age": " 32",
+    "team": "Seattle Kraken",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Cal Clutterbuck",
+    "position": "RW",
+    "age": " 34",
+    "team": "New York Islanders",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Michael Del Zotto",
+    "position": "D",
+    "age": " 32",
+    "team": "Florida Panthers",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Rasmus Ristolainen",
+    "position": "D",
+    "age": " 27",
+    "team": "Philadelphia Flyers",
+    "born": " FIN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Jacob Trouba",
+    "position": "D",
+    "age": " 28",
+    "team": "New York Rangers",
+    "born": " USA",
+    "shoots": " Right"
+  },
+  {
+    "name": "Brock Boeser",
+    "position": "RW",
+    "age": " 25",
+    "team": "Vancouver Canucks",
+    "born": " USA",
+    "shoots": " Right"
+  },
+  {
+    "name": "Clayton Keller",
+    "position": "RW",
+    "age": " 24",
+    "team": "Arizona Coyotes",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Anthony Duclair",
+    "position": "LW",
+    "age": " 27",
+    "team": "Florida Panthers",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Jonathan Drouin",
+    "position": "LW",
+    "age": " 27",
+    "team": "Montréal Canadiens",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Jean-Gabriel Pageau",
+    "position": "C",
+    "age": " 29",
+    "team": "New York Islanders",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Marcus Foligno",
+    "position": "LW",
+    "age": " 31",
+    "team": "Minnesota Wild",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Phillip Danault",
+    "position": "C",
+    "age": " 29",
+    "team": "Los Angeles Kings",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Mattias Ekholm",
+    "position": "D",
+    "age": " 32",
+    "team": "Nashville Predators",
+    "born": " SWE",
+    "shoots": " Left"
+  },
+  {
+    "name": "Alec Martinez",
+    "position": "D",
+    "age": " 35",
+    "team": "Vegas Golden Knights",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Nick Schmaltz",
+    "position": "C",
+    "age": " 26",
+    "team": "Arizona Coyotes",
+    "born": " USA",
+    "shoots": " Right"
+  },
+  {
+    "name": "Erik Haula",
+    "position": "LW",
+    "age": " 31",
+    "team": "New Jersey Devils",
+    "born": " FIN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Zach Hyman",
+    "position": "LW",
+    "age": " 30",
+    "team": "Edmonton Oilers",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Pierre-Luc Dubois",
+    "position": "LW",
+    "age": " 24",
+    "team": "Winnipeg Jets",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Nick Bjugstad",
+    "position": "C",
+    "age": " 30",
+    "team": "Arizona Coyotes",
+    "born": " USA",
+    "shoots": " Right"
+  },
+  {
+    "name": "Dmitry Orlov",
+    "position": "D",
+    "age": " 31",
+    "team": "Washington Capitals",
+    "born": " RUS",
+    "shoots": " Left"
+  },
+  {
+    "name": "Vladislav Namestnikov",
+    "position": "C",
+    "age": " 29",
+    "team": "Tampa Bay Lightning",
+    "born": " RUS",
+    "shoots": " Left"
+  },
+  {
+    "name": "Yanni Gourde",
+    "position": "C",
+    "age": " 30",
+    "team": "Seattle Kraken",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Oliver Bjorkstrand",
+    "position": "RW",
+    "age": " 27",
+    "team": "Seattle Kraken",
+    "born": " DNK",
+    "shoots": " Right"
+  },
+  {
+    "name": "Damon Severson",
+    "position": "D",
+    "age": " 28",
+    "team": "New Jersey Devils",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Chris Tierney",
+    "position": "C",
+    "age": " 28",
+    "team": "Florida Panthers",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Hampus Lindholm",
+    "position": "D",
+    "age": " 28",
+    "team": "Boston Bruins",
+    "born": " SWE",
+    "shoots": " Left"
+  },
+  {
+    "name": "Anthony Mantha",
+    "position": "RW",
+    "age": " 28",
+    "team": "Washington Capitals",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Shea Theodore",
+    "position": "D",
+    "age": " 27",
+    "team": "Vegas Golden Knights",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Elias Pettersson",
+    "position": "C",
+    "age": " 23",
+    "team": "Vancouver Canucks",
+    "born": " SWE",
+    "shoots": " Left"
+  },
+  {
+    "name": "Connor Brown",
+    "position": "RW",
+    "age": " 28",
+    "team": "Washington Capitals",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Conor Sheary",
+    "position": "LW",
+    "age": " 30",
+    "team": "Washington Capitals",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Andrei Svechnikov",
+    "position": "RW",
+    "age": " 22",
+    "team": "Carolina Hurricanes",
+    "born": " RUS",
+    "shoots": " Left"
+  },
+  {
+    "name": "Paul Byron",
+    "position": "LW",
+    "age": " 33",
+    "team": "Montréal Canadiens",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Joonas Donskoi",
+    "position": "RW",
+    "age": " 30",
+    "team": "Seattle Kraken",
+    "born": " FIN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Zach Bogosian",
+    "position": "D",
+    "age": " 32",
+    "team": "Tampa Bay Lightning",
+    "born": " USA",
+    "shoots": " Right"
+  },
+  {
+    "name": "Travis Hamonic",
+    "position": "D",
+    "age": " 32",
+    "team": "Ottawa Senators",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Jaccob Slavin",
+    "position": "D",
+    "age": " 28",
+    "team": "Carolina Hurricanes",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Nico Hischier",
+    "position": "C",
+    "age": " 23",
+    "team": "New Jersey Devils",
+    "born": " CHE",
+    "shoots": " Left"
+  },
+  {
+    "name": "Colton Parayko",
+    "position": "D",
+    "age": " 29",
+    "team": "St. Louis Blues",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Jared McCann",
+    "position": "LW",
+    "age": " 26",
+    "team": "Seattle Kraken",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Sam Bennett",
+    "position": "C",
+    "age": " 26",
+    "team": "Florida Panthers",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Jesper Bratt",
+    "position": "LW",
+    "age": " 24",
+    "team": "New Jersey Devils",
+    "born": " SWE",
+    "shoots": " Left"
+  },
+  {
+    "name": "Andrew Copp",
+    "position": "C",
+    "age": " 28",
+    "team": "Detroit Red Wings",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Casey Cizikas",
+    "position": "C",
+    "age": " 31",
+    "team": "New York Islanders",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Zack Kassian",
+    "position": "RW",
+    "age": " 31",
+    "team": "Arizona Coyotes",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Noah Hanifin",
+    "position": "D",
+    "age": " 25",
+    "team": "Calgary Flames",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Jesper Fast",
+    "position": "RW",
+    "age": " 30",
+    "team": "Carolina Hurricanes",
+    "born": " SWE",
+    "shoots": " Right"
+  },
+  {
+    "name": "Jonas Brodin",
+    "position": "D",
+    "age": " 29",
+    "team": "Minnesota Wild",
+    "born": " SWE",
+    "shoots": " Left"
+  },
+  {
+    "name": "Justin Braun",
+    "position": "D",
+    "age": " 35",
+    "team": "Philadelphia Flyers",
+    "born": " USA",
+    "shoots": " Right"
+  },
+  {
+    "name": "Andreas Athanasiou",
+    "position": "C",
+    "age": " 28",
+    "team": "Chicago Blackhawks",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Ryan Hartman",
+    "position": "RW",
+    "age": " 28",
+    "team": "Minnesota Wild",
+    "born": " USA",
+    "shoots": " Right"
+  },
+  {
+    "name": "Richard Panik",
+    "position": "RW",
+    "age": " 31",
+    "team": "New York Islanders",
+    "born": " SVK",
+    "shoots": " Left"
+  },
+  {
+    "name": "Riley Sheahan",
+    "position": "C",
+    "age": " 30",
+    "team": "Buffalo Sabres",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Brady Tkachuk",
+    "position": "LW",
+    "age": " 23",
+    "team": "Ottawa Senators",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Darnell Nurse",
+    "position": "D",
+    "age": " 27",
+    "team": "Edmonton Oilers",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Ivan Provorov",
+    "position": "D",
+    "age": " 25",
+    "team": "Philadelphia Flyers",
+    "born": " RUS",
+    "shoots": " Left"
+  },
+  {
+    "name": "Anthony Beauvillier",
+    "position": "LW",
+    "age": " 25",
+    "team": "New York Islanders",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Trevor Lewis",
+    "position": "C",
+    "age": " 35",
+    "team": "Calgary Flames",
+    "born": " USA",
+    "shoots": " Right"
+  },
+  {
+    "name": "Ryan Dzingel",
+    "position": "C",
+    "age": " 30",
+    "team": "Carolina Hurricanes",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Tyler Bertuzzi",
+    "position": "LW",
+    "age": " 27",
+    "team": "Detroit Red Wings",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Thomas Chabot",
+    "position": "D",
+    "age": " 25",
+    "team": "Ottawa Senators",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Jakub Vrana",
+    "position": "LW",
+    "age": " 26",
+    "team": "Detroit Red Wings",
+    "born": " CZE",
+    "shoots": " Left"
+  },
+  {
+    "name": "Alexander Kerfoot",
+    "position": "C",
+    "age": " 28",
+    "team": "Toronto Maple Leafs",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Nate Schmidt",
+    "position": "D",
+    "age": " 31",
+    "team": "Winnipeg Jets",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Adrian Kempe",
+    "position": "C",
+    "age": " 26",
+    "team": "Los Angeles Kings",
+    "born": " SWE",
+    "shoots": " Left"
+  },
+  {
+    "name": "Kevin Labanc",
+    "position": "RW",
+    "age": " 26",
+    "team": "San Jose Sharks",
+    "born": " USA",
+    "shoots": " Right"
+  },
+  {
+    "name": "David Savard",
+    "position": "D",
+    "age": " 31",
+    "team": "Montréal Canadiens",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Cale Makar",
+    "position": "D",
+    "age": " 23",
+    "team": "Colorado Avalanche",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Christian Dvorak",
+    "position": "C",
+    "age": " 26",
+    "team": "Montréal Canadiens",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Pavel Zacha",
+    "position": "C",
+    "age": " 25",
+    "team": "Boston Bruins",
+    "born": " CZE",
+    "shoots": " Left"
+  },
+  {
+    "name": "Charlie McAvoy",
+    "position": "D",
+    "age": " 24",
+    "team": "Boston Bruins",
+    "born": " USA",
+    "shoots": " Right"
+  },
+  {
+    "name": "Alex Tuch",
+    "position": "RW",
+    "age": " 26",
+    "team": "Buffalo Sabres",
+    "born": " USA",
+    "shoots": " Right"
+  },
+  {
+    "name": "Jake DeBrusk",
+    "position": "LW",
+    "age": " 25",
+    "team": "Boston Bruins",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Valeri Nichushkin",
+    "position": "RW",
+    "age": " 27",
+    "team": "Colorado Avalanche",
+    "born": " RUS",
+    "shoots": " Left"
+  },
+  {
+    "name": "Josh Anderson",
+    "position": "RW",
+    "age": " 28",
+    "team": "Montréal Canadiens",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Derek Ryan",
+    "position": "C",
+    "age": " 35",
+    "team": "Edmonton Oilers",
+    "born": " USA",
+    "shoots": " Right"
+  },
+  {
+    "name": "Cody Ceci",
+    "position": "D",
+    "age": " 28",
+    "team": "Edmonton Oilers",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Frank Vatrano",
+    "position": "RW",
+    "age": " 28",
+    "team": "Anaheim Ducks",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Roope Hintz",
+    "position": "C",
+    "age": " 25",
+    "team": "Dallas Stars",
+    "born": " FIN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Dylan Strome",
+    "position": "C",
+    "age": " 25",
+    "team": "Washington Capitals",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Luke Schenn",
+    "position": "D",
+    "age": " 32",
+    "team": "Vancouver Canucks",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Adam Lowry",
+    "position": "C",
+    "age": " 29",
+    "team": "Winnipeg Jets",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Alex Iafallo",
+    "position": "LW",
+    "age": " 28",
+    "team": "Los Angeles Kings",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Josh Morrissey",
+    "position": "D",
+    "age": " 27",
+    "team": "Winnipeg Jets",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Ian Cole",
+    "position": "D",
+    "age": " 33",
+    "team": "Tampa Bay Lightning",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Robert Thomas",
+    "position": "C",
+    "age": " 23",
+    "team": "St. Louis Blues",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Adam Fox",
+    "position": "D",
+    "age": " 24",
+    "team": "New York Rangers",
+    "born": " USA",
+    "shoots": " Right"
+  },
+  {
+    "name": "Nick Holden",
+    "position": "D",
+    "age": " 35",
+    "team": "Ottawa Senators",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Brady Skjei",
+    "position": "D",
+    "age": " 28",
+    "team": "Carolina Hurricanes",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Adam Larsson",
+    "position": "D",
+    "age": " 29",
+    "team": "Seattle Kraken",
+    "born": " SWE",
+    "shoots": " Right"
+  },
+  {
+    "name": "Radek Faksa",
+    "position": "C",
+    "age": " 28",
+    "team": "Dallas Stars",
+    "born": " CZE",
+    "shoots": " Left"
+  },
+  {
+    "name": "Nick Ritchie",
+    "position": "LW",
+    "age": " 26",
+    "team": "Arizona Coyotes",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Rasmus Dahlin",
+    "position": "D",
+    "age": " 22",
+    "team": "Buffalo Sabres",
+    "born": " SWE",
+    "shoots": " Left"
+  },
+  {
+    "name": "Blake Coleman",
+    "position": "C",
+    "age": " 30",
+    "team": "Calgary Flames",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Kirill Kaprizov",
+    "position": "LW",
+    "age": " 25",
+    "team": "Minnesota Wild",
+    "born": " RUS",
+    "shoots": " Left"
+  },
+  {
+    "name": "Anthony Cirelli",
+    "position": "C",
+    "age": " 25",
+    "team": "Tampa Bay Lightning",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Artturi Lehkonen",
+    "position": "LW",
+    "age": " 27",
+    "team": "Colorado Avalanche",
+    "born": " FIN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Zemgus Girgensons",
+    "position": "LW",
+    "age": " 28",
+    "team": "Buffalo Sabres",
+    "born": " LVA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Scott Laughton",
+    "position": "C",
+    "age": " 28",
+    "team": "Philadelphia Flyers",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Brett Pesce",
+    "position": "D",
+    "age": " 27",
+    "team": "Carolina Hurricanes",
+    "born": " USA",
+    "shoots": " Right"
+  },
+  {
+    "name": "Danton Heinen",
+    "position": "LW",
+    "age": " 27",
+    "team": "Pittsburgh Penguins",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Chandler Stephenson",
+    "position": "C",
+    "age": " 28",
+    "team": "Vegas Golden Knights",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Brenden Dillon",
+    "position": "D",
+    "age": " 31",
+    "team": "Winnipeg Jets",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Robby Fabbri",
+    "position": "C",
+    "age": " 26",
+    "team": "Detroit Red Wings",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Kasperi Kapanen",
+    "position": "RW",
+    "age": " 26",
+    "team": "Pittsburgh Penguins",
+    "born": " FIN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Neal Pionk",
+    "position": "D",
+    "age": " 27",
+    "team": "Winnipeg Jets",
+    "born": " USA",
+    "shoots": " Right"
+  },
+  {
+    "name": "Ivan Barbashev",
+    "position": "C",
+    "age": " 26",
+    "team": "St. Louis Blues",
+    "born": " RUS",
+    "shoots": " Left"
+  },
+  {
+    "name": "Conor Garland",
+    "position": "RW",
+    "age": " 26",
+    "team": "Vancouver Canucks",
+    "born": " USA",
+    "shoots": " Right"
+  },
+  {
+    "name": "Radko Gudas",
+    "position": "D",
+    "age": " 32",
+    "team": "Florida Panthers",
+    "born": " CZE",
+    "shoots": " Right"
+  },
+  {
+    "name": "Brandon Montour",
+    "position": "D",
+    "age": " 28",
+    "team": "Florida Panthers",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Ryan Pulock",
+    "position": "D",
+    "age": " 28",
+    "team": "New York Islanders",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Joel Eriksson Ek",
+    "position": "C",
+    "age": " 25",
+    "team": "Minnesota Wild",
+    "born": " SWE",
+    "shoots": " Left"
+  },
+  {
+    "name": "Samuel Girard",
+    "position": "D",
+    "age": " 24",
+    "team": "Colorado Avalanche",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Kyle Clifford",
+    "position": "LW",
+    "age": " 31",
+    "team": "Toronto Maple Leafs",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Luke Glendening",
+    "position": "C",
+    "age": " 33",
+    "team": "Dallas Stars",
+    "born": " USA",
+    "shoots": " Right"
+  },
+  {
+    "name": "Jakob Chychrun",
+    "position": "D",
+    "age": " 24",
+    "team": "Arizona Coyotes",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Esa Lindell",
+    "position": "D",
+    "age": " 28",
+    "team": "Dallas Stars",
+    "born": " FIN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Joel Armia",
+    "position": "RW",
+    "age": " 29",
+    "team": "Montréal Canadiens",
+    "born": " FIN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Nick Cousins",
+    "position": "C",
+    "age": " 29",
+    "team": "Florida Panthers",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Vince Dunn",
+    "position": "D",
+    "age": " 25",
+    "team": "Seattle Kraken",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Colin Miller",
+    "position": "D",
+    "age": " 29",
+    "team": "Dallas Stars",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Jimmy Vesey",
+    "position": "LW",
+    "age": " 29",
+    "team": "New York Rangers",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Colton Sissons",
+    "position": "C",
+    "age": " 28",
+    "team": "Nashville Predators",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Jordie Benn",
+    "position": "D",
+    "age": " 35",
+    "team": "Toronto Maple Leafs",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Devon Toews",
+    "position": "D",
+    "age": " 28",
+    "team": "Colorado Avalanche",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Andrew Mangiapane",
+    "position": "LW",
+    "age": " 26",
+    "team": "Calgary Flames",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Jordan Martinook",
+    "position": "LW",
+    "age": " 30",
+    "team": "Carolina Hurricanes",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Miro Heiskanen",
+    "position": "D",
+    "age": " 23",
+    "team": "Dallas Stars",
+    "born": " FIN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Evan Rodrigues",
+    "position": "C",
+    "age": " 29",
+    "team": "Colorado Avalanche",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Brock McGinn",
+    "position": "LW",
+    "age": " 28",
+    "team": "Pittsburgh Penguins",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Ryan Murray",
+    "position": "D",
+    "age": " 29",
+    "team": "Edmonton Oilers",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Victor Olofsson",
+    "position": "LW",
+    "age": " 27",
+    "team": "Buffalo Sabres",
+    "born": " SWE",
+    "shoots": " Left"
+  },
+  {
+    "name": "Devin Shore",
+    "position": "C",
+    "age": " 28",
+    "team": "Edmonton Oilers",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Barclay Goodrow",
+    "position": "C",
+    "age": " 29",
+    "team": "New York Rangers",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Jason Robertson",
+    "position": "LW",
+    "age": " 23",
+    "team": "Dallas Stars",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Ondrej Kase",
+    "position": "RW",
+    "age": " 26",
+    "team": "Carolina Hurricanes",
+    "born": " CZE",
+    "shoots": " Right"
+  },
+  {
+    "name": "Jordan Kyrou",
+    "position": "C",
+    "age": " 24",
+    "team": "St. Louis Blues",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Miles Wood",
+    "position": "LW",
+    "age": " 27",
+    "team": "New Jersey Devils",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Mackenzie Weegar",
+    "position": "D",
+    "age": " 28",
+    "team": "Calgary Flames",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Connor Murphy",
+    "position": "D",
+    "age": " 29",
+    "team": "Chicago Blackhawks",
+    "born": " USA",
+    "shoots": " Right"
+  },
+  {
+    "name": "Josh Manson",
+    "position": "D",
+    "age": " 31",
+    "team": "Colorado Avalanche",
+    "born": " USA",
+    "shoots": " Right"
+  },
+  {
+    "name": "Calvin de Haan",
+    "position": "D",
+    "age": " 31",
+    "team": "Carolina Hurricanes",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Pierre-Edouard Bellemare",
+    "position": "LW",
+    "age": " 37",
+    "team": "Tampa Bay Lightning",
+    "born": " FRA",
+    "shoots": " Left"
+  },
+  {
+    "name": "John Moore",
+    "position": "D",
+    "age": " 31",
+    "team": "Anaheim Ducks",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Brendan Smith",
+    "position": "D",
+    "age": " 33",
+    "team": "New Jersey Devils",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Ben Chiarot",
+    "position": "D",
+    "age": " 31",
+    "team": "Detroit Red Wings",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Filip Hronek",
+    "position": "D",
+    "age": " 24",
+    "team": "Detroit Red Wings",
+    "born": " CZE",
+    "shoots": " Right"
+  },
+  {
+    "name": "Dominik Kubalik",
+    "position": "LW",
+    "age": " 27",
+    "team": "Detroit Red Wings",
+    "born": " CZE",
+    "shoots": " Left"
+  },
+  {
+    "name": "Travis Sanheim",
+    "position": "D",
+    "age": " 26",
+    "team": "Philadelphia Flyers",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Brayden McNabb",
+    "position": "D",
+    "age": " 31",
+    "team": "Vegas Golden Knights",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Troy Terry",
+    "position": "RW",
+    "age": " 25",
+    "team": "Anaheim Ducks",
+    "born": " USA",
+    "shoots": " Right"
+  },
+  {
+    "name": "Ryan Reaves",
+    "position": "RW",
+    "age": " 35",
+    "team": "New York Rangers",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Derek Grant",
+    "position": "C",
+    "age": " 32",
+    "team": "Anaheim Ducks",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Brian Dumoulin",
+    "position": "D",
+    "age": " 31",
+    "team": "Pittsburgh Penguins",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Will Butcher",
+    "position": "D",
+    "age": " 27",
+    "team": "Dallas Stars",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Jordan Greenway",
+    "position": "LW",
+    "age": " 25",
+    "team": "Minnesota Wild",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Rasmus Andersson",
+    "position": "D",
+    "age": " 25",
+    "team": "Calgary Flames",
+    "born": " SWE",
+    "shoots": " Right"
+  },
+  {
+    "name": "Lawson Crouse",
+    "position": "LW",
+    "age": " 25",
+    "team": "Arizona Coyotes",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Tyson Jost",
+    "position": "C",
+    "age": " 24",
+    "team": "Minnesota Wild",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Ryan Donato",
+    "position": "C",
+    "age": " 26",
+    "team": "Seattle Kraken",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Brandon Tanev",
+    "position": "LW",
+    "age": " 30",
+    "team": "Seattle Kraken",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Nikita Zadorov",
+    "position": "D",
+    "age": " 27",
+    "team": "Calgary Flames",
+    "born": " RUS",
+    "shoots": " Left"
+  },
+  {
+    "name": "Carter Verhaeghe",
+    "position": "C",
+    "age": " 27",
+    "team": "Florida Panthers",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Ben Hutton",
+    "position": "D",
+    "age": " 29",
+    "team": "Vegas Golden Knights",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Tage Thompson",
+    "position": "RW",
+    "age": " 24",
+    "team": "Buffalo Sabres",
+    "born": " USA",
+    "shoots": " Right"
+  },
+  {
+    "name": "Austin Watson",
+    "position": "LW",
+    "age": " 30",
+    "team": "Ottawa Senators",
+    "born": " USA",
+    "shoots": " Right"
+  },
+  {
+    "name": "Adam Pelech",
+    "position": "D",
+    "age": " 28",
+    "team": "New York Islanders",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Nikita Zaitsev",
+    "position": "D",
+    "age": " 30",
+    "team": "Ottawa Senators",
+    "born": " RUS",
+    "shoots": " Right"
+  },
+  {
+    "name": "Nic Dowd",
+    "position": "C",
+    "age": " 32",
+    "team": "Washington Capitals",
+    "born": " USA",
+    "shoots": " Right"
+  },
+  {
+    "name": "Garnet Hathaway",
+    "position": "RW",
+    "age": " 30",
+    "team": "Washington Capitals",
+    "born": " USA",
+    "shoots": " Right"
+  },
+  {
+    "name": "Jake McCabe",
+    "position": "D",
+    "age": " 28",
+    "team": "Chicago Blackhawks",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Sean Kuraly",
+    "position": "C",
+    "age": " 29",
+    "team": "Columbus Blue Jackets",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Matt Grzelcyk",
+    "position": "D",
+    "age": " 28",
+    "team": "Boston Bruins",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Oskar Lindblom",
+    "position": "LW",
+    "age": " 26",
+    "team": "San Jose Sharks",
+    "born": " SWE",
+    "shoots": " Left"
+  },
+  {
+    "name": "Drake Batherson",
+    "position": "RW",
+    "age": " 24",
+    "team": "Ottawa Senators",
+    "born": " USA",
+    "shoots": " Right"
+  },
+  {
+    "name": "Mike Reilly",
+    "position": "D",
+    "age": " 29",
+    "team": "Boston Bruins",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Warren Foegele",
+    "position": "LW",
+    "age": " 26",
+    "team": "Edmonton Oilers",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Erik Gudbranson",
+    "position": "D",
+    "age": " 30",
+    "team": "Columbus Blue Jackets",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Nathan Beaulieu",
+    "position": "D",
+    "age": " 29",
+    "team": "Anaheim Ducks",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Luke Kunin",
+    "position": "C",
+    "age": " 24",
+    "team": "San Jose Sharks",
+    "born": " USA",
+    "shoots": " Right"
+  },
+  {
+    "name": "Joel Farabee",
+    "position": "LW",
+    "age": " 22",
+    "team": "Philadelphia Flyers",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Filip Chytil",
+    "position": "C",
+    "age": " 23",
+    "team": "New York Rangers",
+    "born": " CZE",
+    "shoots": " Left"
+  },
+  {
+    "name": "Kailer Yamamoto",
+    "position": "RW",
+    "age": " 24",
+    "team": "Edmonton Oilers",
+    "born": " USA",
+    "shoots": " Right"
+  },
+  {
+    "name": "Drake Caggiula",
+    "position": "C",
+    "age": " 28",
+    "team": "Pittsburgh Penguins",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Jesperi Kotkaniemi",
+    "position": "C",
+    "age": " 22",
+    "team": "Carolina Hurricanes",
+    "born": " FIN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Joel Edmundson",
+    "position": "D",
+    "age": " 29",
+    "team": "Montréal Canadiens",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Nick Jensen",
+    "position": "D",
+    "age": " 32",
+    "team": "Washington Capitals",
+    "born": " USA",
+    "shoots": " Right"
+  },
+  {
+    "name": "Curtis Lazar",
+    "position": "C",
+    "age": " 27",
+    "team": "Vancouver Canucks",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Trevor Moore",
+    "position": "C",
+    "age": " 27",
+    "team": "Los Angeles Kings",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Jamie Oleksiak",
+    "position": "D",
+    "age": " 29",
+    "team": "Seattle Kraken",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Trevor Van Riemsdyk",
+    "position": "D",
+    "age": " 31",
+    "team": "Washington Capitals",
+    "born": " USA",
+    "shoots": " Right"
+  },
+  {
+    "name": "Troy Stecher",
+    "position": "D",
+    "age": " 28",
+    "team": "Arizona Coyotes",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Matt Irwin",
+    "position": "D",
+    "age": " 34",
+    "team": "Washington Capitals",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Scott Mayfield",
+    "position": "D",
+    "age": " 29",
+    "team": "New York Islanders",
+    "born": " USA",
+    "shoots": " Right"
+  },
+  {
+    "name": "Jon Merrill",
+    "position": "D",
+    "age": " 30",
+    "team": "Minnesota Wild",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Dylan Demelo",
+    "position": "D",
+    "age": " 29",
+    "team": "Winnipeg Jets",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Christian Fischer",
+    "position": "RW",
+    "age": " 25",
+    "team": "Arizona Coyotes",
+    "born": " USA",
+    "shoots": " Right"
+  },
+  {
+    "name": "Tomas Nosek",
+    "position": "LW",
+    "age": " 30",
+    "team": "Boston Bruins",
+    "born": " CZE",
+    "shoots": " Left"
+  },
+  {
+    "name": "Mathieu Joseph",
+    "position": "RW",
+    "age": " 25",
+    "team": "Ottawa Senators",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Gustav Forsling",
+    "position": "D",
+    "age": " 26",
+    "team": "Florida Panthers",
+    "born": " SWE",
+    "shoots": " Left"
+  },
+  {
+    "name": "Mark Jankowski",
+    "position": "C",
+    "age": " 28",
+    "team": "Nashville Predators",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Casey Mittelstadt",
+    "position": "C",
+    "age": " 23",
+    "team": "Buffalo Sabres",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Kevin Connauton",
+    "position": "D",
+    "age": " 32",
+    "team": "Philadelphia Flyers",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Derek Forbort",
+    "position": "D",
+    "age": " 30",
+    "team": "Boston Bruins",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Noel Acciari",
+    "position": "C",
+    "age": " 30",
+    "team": "St. Louis Blues",
+    "born": " USA",
+    "shoots": " Right"
+  },
+  {
+    "name": "Josh Leivo",
+    "position": "LW",
+    "age": " 29",
+    "team": "St. Louis Blues",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Michael Bunting",
+    "position": "LW",
+    "age": " 27",
+    "team": "Toronto Maple Leafs",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Nolan Patrick",
+    "position": "C",
+    "age": " 24",
+    "team": "Vegas Golden Knights",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Yegor Sharangovich",
+    "position": "C",
+    "age": " 24",
+    "team": "New Jersey Devils",
+    "born": " BLR",
+    "shoots": " Left"
+  },
+  {
+    "name": "Travis Boyd",
+    "position": "C",
+    "age": " 29",
+    "team": "Arizona Coyotes",
+    "born": " USA",
+    "shoots": " Right"
+  },
+  {
+    "name": "Brad Hunt",
+    "position": "D",
+    "age": " 34",
+    "team": "Colorado Avalanche",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Dillon Dube",
+    "position": "C",
+    "age": " 24",
+    "team": "Calgary Flames",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "William Carrier",
+    "position": "LW",
+    "age": " 27",
+    "team": "Vegas Golden Knights",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Jason Dickinson",
+    "position": "C",
+    "age": " 27",
+    "team": "Chicago Blackhawks",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Trevor Zegras",
+    "position": "C",
+    "age": " 21",
+    "team": "Anaheim Ducks",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Ryan Graves",
+    "position": "D",
+    "age": " 27",
+    "team": "New Jersey Devils",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Jordan Oesterle",
+    "position": "D",
+    "age": " 30",
+    "team": "Detroit Red Wings",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Brett Ritchie",
+    "position": "RW",
+    "age": " 29",
+    "team": "Calgary Flames",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Ilya Mikheyev",
+    "position": "RW",
+    "age": " 28",
+    "team": "Vancouver Canucks",
+    "born": " RUS",
+    "shoots": " Left"
+  },
+  {
+    "name": "Chris Wideman",
+    "position": "D",
+    "age": " 32",
+    "team": "Montréal Canadiens",
+    "born": " USA",
+    "shoots": " Right"
+  },
+  {
+    "name": "Noah Dobson",
+    "position": "D",
+    "age": " 22",
+    "team": "New York Islanders",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Josh Archibald",
+    "position": "RW",
+    "age": " 30",
+    "team": "Pittsburgh Penguins",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Adam Erne",
+    "position": "LW",
+    "age": " 27",
+    "team": "Detroit Red Wings",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Daniel Sprong",
+    "position": "RW",
+    "age": " 25",
+    "team": "Seattle Kraken",
+    "born": " NLD",
+    "shoots": " Right"
+  },
+  {
+    "name": "Adam Gaudette",
+    "position": "C",
+    "age": " 26",
+    "team": "Toronto Maple Leafs",
+    "born": " USA",
+    "shoots": " Right"
+  },
+  {
+    "name": "Brandon Carlo",
+    "position": "D",
+    "age": " 25",
+    "team": "Boston Bruins",
+    "born": " USA",
+    "shoots": " Right"
+  },
+  {
+    "name": "Ryan Carpenter",
+    "position": "C",
+    "age": " 31",
+    "team": "New York Rangers",
+    "born": " USA",
+    "shoots": " Right"
+  },
+  {
+    "name": "Brett Howden",
+    "position": "C",
+    "age": " 24",
+    "team": "Vegas Golden Knights",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Robert Bortuzzo",
+    "position": "D",
+    "age": " 33",
+    "team": "St. Louis Blues",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Andrej Sustr",
+    "position": "D",
+    "age": " 31",
+    "team": "Minnesota Wild",
+    "born": " CZE",
+    "shoots": " Right"
+  },
+  {
+    "name": "Brandon Hagel",
+    "position": "LW",
+    "age": " 24",
+    "team": "Tampa Bay Lightning",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Zach Aston-Reese",
+    "position": "C",
+    "age": " 28",
+    "team": "Toronto Maple Leafs",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Jujhar Khaira",
+    "position": "LW",
+    "age": " 28",
+    "team": "Chicago Blackhawks",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Mason Appleton",
+    "position": "C",
+    "age": " 26",
+    "team": "Winnipeg Jets",
+    "born": " USA",
+    "shoots": " Right"
+  },
+  {
+    "name": "Nicolas Roy",
+    "position": "C",
+    "age": " 25",
+    "team": "Vegas Golden Knights",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Brett Kulak",
+    "position": "D",
+    "age": " 28",
+    "team": "Edmonton Oilers",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Justin Holl",
+    "position": "D",
+    "age": " 30",
+    "team": "Toronto Maple Leafs",
+    "born": " USA",
+    "shoots": " Right"
+  },
+  {
+    "name": "Pius Suter",
+    "position": "C",
+    "age": " 26",
+    "team": "Detroit Red Wings",
+    "born": " CHE",
+    "shoots": " Left"
+  },
+  {
+    "name": "Tyler Motte",
+    "position": "LW",
+    "age": " 27",
+    "team": "Ottawa Senators",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Pierre Engvall",
+    "position": "LW",
+    "age": " 26",
+    "team": "Toronto Maple Leafs",
+    "born": " SWE",
+    "shoots": " Left"
+  },
+  {
+    "name": "Filip Zadina",
+    "position": "RW",
+    "age": " 22",
+    "team": "Detroit Red Wings",
+    "born": " CZE",
+    "shoots": " Left"
+  },
+  {
+    "name": "Jan Rutta",
+    "position": "D",
+    "age": " 32",
+    "team": "Pittsburgh Penguins",
+    "born": " CZE",
+    "shoots": " Right"
+  },
+  {
+    "name": "Brendan Lemieux",
+    "position": "LW",
+    "age": " 26",
+    "team": "Los Angeles Kings",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Kirby Dach",
+    "position": "C",
+    "age": " 21",
+    "team": "Montréal Canadiens",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Jake Evans",
+    "position": "C",
+    "age": " 26",
+    "team": "Montréal Canadiens",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Austin Czarnik",
+    "position": "C",
+    "age": " 29",
+    "team": "Detroit Red Wings",
+    "born": " USA",
+    "shoots": " Right"
+  },
+  {
+    "name": "Owen Tippett",
+    "position": "RW",
+    "age": " 23",
+    "team": "Philadelphia Flyers",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Michael Mcleod",
+    "position": "C",
+    "age": " 24",
+    "team": "New Jersey Devils",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Madison Bowey",
+    "position": "D",
+    "age": " 27",
+    "team": "Montréal Canadiens",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Alex Formenton",
+    "position": "LW",
+    "age": " 23",
+    "team": "Ottawa Senators",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Greg McKegg",
+    "position": "C",
+    "age": " 30",
+    "team": "Edmonton Oilers",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Gabriel Vilardi",
+    "position": "C",
+    "age": " 23",
+    "team": "Los Angeles Kings",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Keegan Kolesar",
+    "position": "RW",
+    "age": " 25",
+    "team": "Vegas Golden Knights",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Jake Bean",
+    "position": "D",
+    "age": " 24",
+    "team": "Columbus Blue Jackets",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Eetu Luostarinen",
+    "position": "C",
+    "age": " 24",
+    "team": "Florida Panthers",
+    "born": " FIN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Tanner Kero",
+    "position": "C",
+    "age": " 30",
+    "team": "Dallas Stars",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Jesper Boqvist",
+    "position": "C",
+    "age": " 23",
+    "team": "New Jersey Devils",
+    "born": " SWE",
+    "shoots": " Left"
+  },
+  {
+    "name": "Noah Gregor",
+    "position": "C",
+    "age": " 24",
+    "team": "San Jose Sharks",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Caleb Jones",
+    "position": "D",
+    "age": " 25",
+    "team": "Chicago Blackhawks",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Slater Koekkoek",
+    "position": "D",
+    "age": " 28",
+    "team": "Edmonton Oilers",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Alexandre Carrier",
+    "position": "D",
+    "age": " 26",
+    "team": "Nashville Predators",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Philip Tomasino",
+    "position": "C",
+    "age": " 21",
+    "team": "Nashville Predators",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Sam Lafferty",
+    "position": "C",
+    "age": " 27",
+    "team": "Chicago Blackhawks",
+    "born": " USA",
+    "shoots": " Right"
+  },
+  {
+    "name": "Zach Whitecloud",
+    "position": "D",
+    "age": " 25",
+    "team": "Vegas Golden Knights",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Nathan Bastian",
+    "position": "RW",
+    "age": " 24",
+    "team": "New Jersey Devils",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Cole Sillinger",
+    "position": "C",
+    "age": " 19",
+    "team": "Columbus Blue Jackets",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Evgeny Svechnikov",
+    "position": "LW",
+    "age": " 25",
+    "team": "San Jose Sharks",
+    "born": " RUS",
+    "shoots": " Left"
+  },
+  {
+    "name": "Dylan Gambrell",
+    "position": "C",
+    "age": " 26",
+    "team": "Ottawa Senators",
+    "born": " USA",
+    "shoots": " Right"
+  },
+  {
+    "name": "Nic Petan",
+    "position": "C",
+    "age": " 27",
+    "team": "Minnesota Wild",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Dominic Toninato",
+    "position": "C",
+    "age": " 28",
+    "team": "Winnipeg Jets",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Max Jones",
+    "position": "LW",
+    "age": " 24",
+    "team": "Anaheim Ducks",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Arthur Kaliyev",
+    "position": "RW",
+    "age": " 21",
+    "team": "Los Angeles Kings",
+    "born": " UZB",
+    "shoots": " Left"
+  },
+  {
+    "name": "Zac Dalpe",
+    "position": "C",
+    "age": " 32",
+    "team": "Florida Panthers",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Radim Simek",
+    "position": "D",
+    "age": " 30",
+    "team": "San Jose Sharks",
+    "born": " CZE",
+    "shoots": " Left"
+  },
+  {
+    "name": "Kieffer Bellows",
+    "position": "LW",
+    "age": " 24",
+    "team": "New York Islanders",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Ilya Lyubushkin",
+    "position": "D",
+    "age": " 28",
+    "team": "Buffalo Sabres",
+    "born": " RUS",
+    "shoots": " Right"
+  },
+  {
+    "name": "Timothy Liljegren",
+    "position": "D",
+    "age": " 23",
+    "team": "Toronto Maple Leafs",
+    "born": " SWE",
+    "shoots": " Right"
+  },
+  {
+    "name": "Trent Frederic",
+    "position": "C",
+    "age": " 24",
+    "team": "Boston Bruins",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Ryan Lomberg",
+    "position": "LW",
+    "age": " 27",
+    "team": "Florida Panthers",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Brendan Gaunce",
+    "position": "C",
+    "age": " 28",
+    "team": "Columbus Blue Jackets",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Cody Glass",
+    "position": "C",
+    "age": " 23",
+    "team": "Nashville Predators",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Karson Kuhlman",
+    "position": "C",
+    "age": " 27",
+    "team": "Seattle Kraken",
+    "born": " USA",
+    "shoots": " Right"
+  },
+  {
+    "name": "Peyton Krebs",
+    "position": "C",
+    "age": " 21",
+    "team": "Buffalo Sabres",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Taylor Raddysh",
+    "position": "RW",
+    "age": " 24",
+    "team": "Chicago Blackhawks",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Ross Johnston",
+    "position": "LW",
+    "age": " 28",
+    "team": "New York Islanders",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Kurtis MacDermid",
+    "position": "D",
+    "age": " 28",
+    "team": "Colorado Avalanche",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Tucker Poolman",
+    "position": "D",
+    "age": " 29",
+    "team": "Vancouver Canucks",
+    "born": " USA",
+    "shoots": " Right"
+  },
+  {
+    "name": "Logan Brown",
+    "position": "C",
+    "age": " 24",
+    "team": "St. Louis Blues",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Connor Clifton",
+    "position": "D",
+    "age": " 27",
+    "team": "Boston Bruins",
+    "born": " USA",
+    "shoots": " Right"
+  },
+  {
+    "name": "Jonathan Quick",
+    "position": "G",
+    "age": " 36",
+    "team": "Los Angeles Kings",
+    "born": " USA",
+    "shoots": ": Left"
+  },
+  {
+    "name": "Seth Griffith",
+    "position": "C",
+    "age": " 29",
+    "team": "Edmonton Oilers",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Joel Kiviranta",
+    "position": "LW",
+    "age": " 26",
+    "team": "Dallas Stars",
+    "born": " FIN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Dylan Coghlan",
+    "position": "D",
+    "age": " 24",
+    "team": "Carolina Hurricanes",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Craig Anderson",
+    "position": "G",
+    "age": " 41",
+    "team": "Buffalo Sabres",
+    "born": " USA",
+    "shoots": ": Left"
+  },
+  {
+    "name": "Zack MacEwen",
+    "position": "C",
+    "age": " 26",
+    "team": "Philadelphia Flyers",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Vinni Lettieri",
+    "position": "C",
+    "age": " 27",
+    "team": "Boston Bruins",
+    "born": " USA",
+    "shoots": " Right"
+  },
+  {
+    "name": "Kiefer Sherwood",
+    "position": "LW",
+    "age": " 27",
+    "team": "Nashville Predators",
+    "born": " USA",
+    "shoots": " Right"
+  },
+  {
+    "name": "Justin Dowling",
+    "position": "C",
+    "age": " 32",
+    "team": "Vancouver Canucks",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Paul LaDue",
+    "position": "D",
+    "age": " 30",
+    "team": "New York Islanders",
+    "born": " USA",
+    "shoots": " Right"
+  },
+  {
+    "name": "Julien Gauthier",
+    "position": "RW",
+    "age": " 24",
+    "team": "New York Rangers",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Jeremy Lauzon",
+    "position": "D",
+    "age": " 25",
+    "team": "Nashville Predators",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Sebastian Aho",
+    "position": "C",
+    "age": " 25",
+    "team": "Carolina Hurricanes",
+    "born": " FIN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Riley Stillman",
+    "position": "D",
+    "age": " 24",
+    "team": "Vancouver Canucks",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Lias Andersson",
+    "position": "C",
+    "age": " 23",
+    "team": "Los Angeles Kings",
+    "born": " SWE",
+    "shoots": " Left"
+  },
+  {
+    "name": "Brandon Duhaime",
+    "position": "RW",
+    "age": " 25",
+    "team": "Minnesota Wild",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Jacob Middleton",
+    "position": "D",
+    "age": " 26",
+    "team": "Minnesota Wild",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Niko Mikkola",
+    "position": "D",
+    "age": " 26",
+    "team": "St. Louis Blues",
+    "born": " FIN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Josh Brown",
+    "position": "D",
+    "age": " 28",
+    "team": "Arizona Coyotes",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Dylan Sikura",
+    "position": "RW",
+    "age": " 27",
+    "team": "Chicago Blackhawks",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Logan Stanley",
+    "position": "D",
+    "age": " 24",
+    "team": "Winnipeg Jets",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Laurent Dauphin",
+    "position": "C",
+    "age": " 27",
+    "team": "Arizona Coyotes",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Gabriel Carlsson",
+    "position": "D",
+    "age": " 25",
+    "team": "Washington Capitals",
+    "born": " SWE",
+    "shoots": " Left"
+  },
+  {
+    "name": "Kale Clague",
+    "position": "D",
+    "age": " 24",
+    "team": "Buffalo Sabres",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Jonny Brodzinski",
+    "position": "C",
+    "age": " 29",
+    "team": "New York Rangers",
+    "born": " USA",
+    "shoots": " Right"
+  },
+  {
+    "name": "Maxime Lajoie",
+    "position": "D",
+    "age": " 24",
+    "team": "Carolina Hurricanes",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Nick Seeler",
+    "position": "D",
+    "age": " 29",
+    "team": "Philadelphia Flyers",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Justin Danforth",
+    "position": "RW",
+    "age": " 29",
+    "team": "Columbus Blue Jackets",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Yegor Chinakhov",
+    "position": "RW",
+    "age": " 21",
+    "team": "Columbus Blue Jackets",
+    "born": " RUS",
+    "shoots": " Left"
+  },
+  {
+    "name": "Givani Smith",
+    "position": "RW",
+    "age": " 24",
+    "team": "Detroit Red Wings",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "MacKenzie Entwistle",
+    "position": "RW",
+    "age": " 23",
+    "team": "Chicago Blackhawks",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Rasmus Kupari",
+    "position": "C",
+    "age": " 22",
+    "team": "Los Angeles Kings",
+    "born": " FIN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Gavin Bayreuther",
+    "position": "D",
+    "age": " 28",
+    "team": "Columbus Blue Jackets",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Parker Kelly",
+    "position": "LW",
+    "age": " 23",
+    "team": "Ottawa Senators",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Joey Anderson",
+    "position": "RW",
+    "age": " 24",
+    "team": "Toronto Maple Leafs",
+    "born": " USA",
+    "shoots": " Right"
+  },
+  {
+    "name": "Brett Seney",
+    "position": "LW",
+    "age": " 26",
+    "team": "Chicago Blackhawks",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Mitchell Stephens",
+    "position": "C",
+    "age": " 25",
+    "team": "Montréal Canadiens",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Jaycob Megna",
+    "position": "D",
+    "age": " 29",
+    "team": "San Jose Sharks",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Jarred Tinordi",
+    "position": "D",
+    "age": " 30",
+    "team": "New York Rangers",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Luke Witkowski",
+    "position": "D",
+    "age": " 32",
+    "team": "St. Louis Blues",
+    "born": " USA",
+    "shoots": " Right"
+  },
+  {
+    "name": "Frederik Andersen",
+    "position": "G",
+    "age": " 33",
+    "team": "Carolina Hurricanes",
+    "born": " DNK",
+    "shoots": ": Left"
+  },
+  {
+    "name": "Carey Price",
+    "position": "G",
+    "age": " 35",
+    "team": "Montréal Canadiens",
+    "born": " CAN",
+    "shoots": ": Left"
+  },
+  {
+    "name": "Jaret Anderson-Dolan",
+    "position": "C",
+    "age": " 23",
+    "team": "Los Angeles Kings",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Patrick Brown",
+    "position": "C",
+    "age": " 30",
+    "team": "Philadelphia Flyers",
+    "born": " USA",
+    "shoots": " Right"
+  },
+  {
+    "name": "Joseph Cramarossa",
+    "position": "C",
+    "age": " 29",
+    "team": "Minnesota Wild",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Dysin Mayo",
+    "position": "D",
+    "age": " 26",
+    "team": "Arizona Coyotes",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Anton Blidh",
+    "position": "LW",
+    "age": " 27",
+    "team": "Colorado Avalanche",
+    "born": " SWE",
+    "shoots": " Left"
+  },
+  {
+    "name": "Jake Walman",
+    "position": "D",
+    "age": " 26",
+    "team": "Detroit Red Wings",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Jakub Zboril",
+    "position": "D",
+    "age": " 25",
+    "team": "Boston Bruins",
+    "born": " CZE",
+    "shoots": " Left"
+  },
+  {
+    "name": "Jaroslav Halak",
+    "position": "G",
+    "age": " 37",
+    "team": "New York Rangers",
+    "born": " SVK",
+    "shoots": ": Left"
+  },
+  {
+    "name": "Adam Brooks",
+    "position": "C",
+    "age": " 26",
+    "team": "Philadelphia Flyers",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Klim Kostin",
+    "position": "C",
+    "age": " 23",
+    "team": "Edmonton Oilers",
+    "born": " RUS",
+    "shoots": " Left"
+  },
+  {
+    "name": "Quinton Byfield",
+    "position": "C",
+    "age": " 20",
+    "team": "Los Angeles Kings",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Jasper Weatherby",
+    "position": "C",
+    "age": " 24",
+    "team": "San Jose Sharks",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Michael Pezzetta",
+    "position": "LW",
+    "age": " 24",
+    "team": "Montréal Canadiens",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Lucas Carlsson",
+    "position": "D",
+    "age": " 25",
+    "team": "Florida Panthers",
+    "born": " SWE",
+    "shoots": " Left"
+  },
+  {
+    "name": "Libor Hajek",
+    "position": "D",
+    "age": " 24",
+    "team": "New York Rangers",
+    "born": " CZE",
+    "shoots": " Left"
+  },
+  {
+    "name": "Arttu Ruotsalainen",
+    "position": "C",
+    "age": " 24",
+    "team": "Buffalo Sabres",
+    "born": " FIN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Radim Zohorna",
+    "position": "LW",
+    "age": " 26",
+    "team": "Calgary Flames",
+    "born": " CZE",
+    "shoots": " Left"
+  },
+  {
+    "name": "Cam York",
+    "position": "D",
+    "age": " 21",
+    "team": "Philadelphia Flyers",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Kyle Capobianco",
+    "position": "D",
+    "age": " 25",
+    "team": "Winnipeg Jets",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Ville Heinola",
+    "position": "D",
+    "age": " 21",
+    "team": "Winnipeg Jets",
+    "born": " FIN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Brian Elliott",
+    "position": "G",
+    "age": " 37",
+    "team": "Tampa Bay Lightning",
+    "born": " CAN",
+    "shoots": ": Left"
+  },
+  {
+    "name": "Sergei Bobrovsky",
+    "position": "G",
+    "age": " 34",
+    "team": "Florida Panthers",
+    "born": " RUS",
+    "shoots": ": Left"
+  },
+  {
+    "name": "Scott Reedy",
+    "position": "C",
+    "age": " 23",
+    "team": "San Jose Sharks",
+    "born": " USA",
+    "shoots": " Right"
+  },
+  {
+    "name": "Alex Barre-Boulet",
+    "position": "C",
+    "age": " 25",
+    "team": "Tampa Bay Lightning",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Noah Cates",
+    "position": "LW",
+    "age": " 23",
+    "team": "Philadelphia Flyers",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Sheldon Dries",
+    "position": "C",
+    "age": " 28",
+    "team": "Vancouver Canucks",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Wyatt Kalynuk",
+    "position": "D",
+    "age": " 25",
+    "team": "Vancouver Canucks",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Dakota Joshua",
+    "position": "C",
+    "age": " 26",
+    "team": "Vancouver Canucks",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Mark Friedman",
+    "position": "D",
+    "age": " 26",
+    "team": "Pittsburgh Penguins",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Buddy Robinson",
+    "position": "RW",
+    "age": " 31",
+    "team": "Chicago Blackhawks",
+    "born": " USA",
+    "shoots": " Right"
+  },
+  {
+    "name": "Andrew Agozzino",
+    "position": "LW",
+    "age": " 31",
+    "team": "San Jose Sharks",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Connor Hellebuyck",
+    "position": "G",
+    "age": " 29",
+    "team": "Winnipeg Jets",
+    "born": " USA",
+    "shoots": ": Left"
+  },
+  {
+    "name": "Cory Schneider",
+    "position": "G",
+    "age": " 36",
+    "team": "New York Islanders",
+    "born": " USA",
+    "shoots": ": Left"
+  },
+  {
+    "name": "Fabian Zetterlund",
+    "position": "LW",
+    "age": " 23",
+    "team": "New Jersey Devils",
+    "born": " SWE",
+    "shoots": " Right"
+  },
+  {
+    "name": "Ian Mitchell",
+    "position": "D",
+    "age": " 23",
+    "team": "Chicago Blackhawks",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Jordan Spence",
+    "position": "D",
+    "age": " 21",
+    "team": "Los Angeles Kings",
+    "born": " AUS",
+    "shoots": " Right"
+  },
+  {
+    "name": "Kole Lind",
+    "position": "RW",
+    "age": " 23",
+    "team": "Seattle Kraken",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Scott Sabourin",
+    "position": "RW",
+    "age": " 30",
+    "team": "Ottawa Senators",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Nicolas Meloche",
+    "position": "D",
+    "age": " 25",
+    "team": "Calgary Flames",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Shane Pinto",
+    "position": "C",
+    "age": " 21",
+    "team": "Ottawa Senators",
+    "born": " USA",
+    "shoots": " Right"
+  },
+  {
+    "name": "Clark Bishop",
+    "position": "C",
+    "age": " 26",
+    "team": "Calgary Flames",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Urho Vaakanainen",
+    "position": "D",
+    "age": " 23",
+    "team": "Anaheim Ducks",
+    "born": " FIN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Tristan Jarry",
+    "position": "G",
+    "age": " 27",
+    "team": "Pittsburgh Penguins",
+    "born": " CAN",
+    "shoots": ": Left"
+  },
+  {
+    "name": "Anton Khudobin",
+    "position": "G",
+    "age": " 36",
+    "team": "Dallas Stars",
+    "born": " KAZ",
+    "shoots": ": Left"
+  },
+  {
+    "name": "Jonathan Bernier",
+    "position": "G",
+    "age": " 34",
+    "team": "New Jersey Devils",
+    "born": " CAN",
+    "shoots": ": Left"
+  },
+  {
+    "name": "Semyon Varlamov",
+    "position": "G",
+    "age": " 34",
+    "team": "New York Islanders",
+    "born": " RUS",
+    "shoots": ": Left"
+  },
+  {
+    "name": "Wade Allison",
+    "position": "RW",
+    "age": " 24",
+    "team": "Philadelphia Flyers",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Mathieu Olivier",
+    "position": "RW",
+    "age": " 25",
+    "team": "Columbus Blue Jackets",
+    "born": " USA",
+    "shoots": " Right"
+  },
+  {
+    "name": "Boris Katchouk",
+    "position": "LW",
+    "age": " 24",
+    "team": "Chicago Blackhawks",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Cole Perfetti",
+    "position": "C",
+    "age": " 20",
+    "team": "Winnipeg Jets",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Thomas Novak",
+    "position": "C",
+    "age": " 25",
+    "team": "Nashville Predators",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Jack Studnicka",
+    "position": "C",
+    "age": " 23",
+    "team": "Boston Bruins",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Cam Dineen",
+    "position": "D",
+    "age": " 24",
+    "team": "Arizona Coyotes",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Conor Timmins",
+    "position": "D",
+    "age": " 24",
+    "team": "Arizona Coyotes",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "William Lagesson",
+    "position": "D",
+    "age": " 26",
+    "team": "Carolina Hurricanes",
+    "born": " SWE",
+    "shoots": " Left"
+  },
+  {
+    "name": "Nolan Foote",
+    "position": "LW",
+    "age": " 21",
+    "team": "New Jersey Devils",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Michael Carcone",
+    "position": "LW",
+    "age": " 26",
+    "team": "Arizona Coyotes",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Morgan Barron",
+    "position": "C",
+    "age": " 23",
+    "team": "Winnipeg Jets",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Brett Leason",
+    "position": "RW",
+    "age": " 23",
+    "team": "Washington Capitals",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Brett Murray",
+    "position": "LW",
+    "age": " 24",
+    "team": "Buffalo Sabres",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Nicolas Beaudin",
+    "position": "D",
+    "age": " 23",
+    "team": "Chicago Blackhawks",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Oskar Steen",
+    "position": "C",
+    "age": " 24",
+    "team": "Boston Bruins",
+    "born": " SWE",
+    "shoots": " Right"
+  },
+  {
+    "name": "Corey Schueneman",
+    "position": "D",
+    "age": " 27",
+    "team": "Montréal Canadiens",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Connor Dewar",
+    "position": "C",
+    "age": " 23",
+    "team": "Minnesota Wild",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Jake Leschyshyn",
+    "position": "C",
+    "age": " 23",
+    "team": "Vegas Golden Knights",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Matias Maccelli",
+    "position": "LW",
+    "age": " 21",
+    "team": "Arizona Coyotes",
+    "born": " FIN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Kevin Bahl",
+    "position": "D",
+    "age": " 22",
+    "team": "New Jersey Devils",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Ryan Merkley",
+    "position": "D",
+    "age": " 22",
+    "team": "San Jose Sharks",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Reese Johnson",
+    "position": "C",
+    "age": " 24",
+    "team": "Chicago Blackhawks",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Kyle Burroughs",
+    "position": "D",
+    "age": " 27",
+    "team": "Vancouver Canucks",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Scott Perunovich",
+    "position": "D",
+    "age": " 24",
+    "team": "St. Louis Blues",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Zac Jones",
+    "position": "D",
+    "age": " 21",
+    "team": "New York Rangers",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Casey Fitzgerald",
+    "position": "D",
+    "age": " 25",
+    "team": "Buffalo Sabres",
+    "born": " USA",
+    "shoots": " Right"
+  },
+  {
+    "name": "Robin Lehner",
+    "position": "G",
+    "age": " 31",
+    "team": "Vegas Golden Knights",
+    "born": " SWE",
+    "shoots": ": Left"
+  },
+  {
+    "name": "Jan Jenik",
+    "position": "RW",
+    "age": " 22",
+    "team": "Arizona Coyotes",
+    "born": " CZE",
+    "shoots": " Left"
+  },
+  {
+    "name": "Ty Dellandrea",
+    "position": "C",
+    "age": " 22",
+    "team": "Dallas Stars",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Anthony Angello",
+    "position": "C",
+    "age": " 26",
+    "team": "St. Louis Blues",
+    "born": " USA",
+    "shoots": " Right"
+  },
+  {
+    "name": "Kristian Vesalainen",
+    "position": "LW",
+    "age": " 23",
+    "team": "Winnipeg Jets",
+    "born": " FIN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Pierre-Olivier Joseph",
+    "position": "D",
+    "age": " 23",
+    "team": "Pittsburgh Penguins",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Mike Hardman",
+    "position": "LW",
+    "age": " 23",
+    "team": "Chicago Blackhawks",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Simon Benoit",
+    "position": "D",
+    "age": " 24",
+    "team": "Anaheim Ducks",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Thomas Bordeleau",
+    "position": "C",
+    "age": " 20",
+    "team": "San Jose Sharks",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Lassi Thomson",
+    "position": "D",
+    "age": " 22",
+    "team": "Ottawa Senators",
+    "born": " FIN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Liam Foudy",
+    "position": "C",
+    "age": " 22",
+    "team": "Columbus Blue Jackets",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Matt Murray",
+    "position": "G",
+    "age": " 28",
+    "team": "Toronto Maple Leafs",
+    "born": " CAN",
+    "shoots": ": Left"
+  },
+  {
+    "name": "Ronnie Attard",
+    "position": "D",
+    "age": " 23",
+    "team": "Philadelphia Flyers",
+    "born": " USA",
+    "shoots": " Right"
+  },
+  {
+    "name": "Mark Kastelic",
+    "position": "C",
+    "age": " 23",
+    "team": "Ottawa Senators",
+    "born": " USA",
+    "shoots": " Right"
+  },
+  {
+    "name": "Connor Mackey",
+    "position": "D",
+    "age": " 26",
+    "team": "Calgary Flames",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Isaac Ratcliffe",
+    "position": "LW",
+    "age": " 23",
+    "team": "Philadelphia Flyers",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Dakota Mermis",
+    "position": "D",
+    "age": " 28",
+    "team": "Minnesota Wild",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Nils Lundkvist",
+    "position": "D",
+    "age": " 22",
+    "team": "Dallas Stars",
+    "born": " SWE",
+    "shoots": " Right"
+  },
+  {
+    "name": "William Eklund",
+    "position": "C",
+    "age": " 19",
+    "team": "San Jose Sharks",
+    "born": " SWE",
+    "shoots": " Left"
+  },
+  {
+    "name": "Jordan Gross",
+    "position": "D",
+    "age": " 27",
+    "team": "Nashville Predators",
+    "born": " USA",
+    "shoots": " Right"
+  },
+  {
+    "name": "Bobby Brink",
+    "position": "RW",
+    "age": " 21",
+    "team": "Philadelphia Flyers",
+    "born": " USA",
+    "shoots": " Right"
+  },
+  {
+    "name": "Jalen Chatfield",
+    "position": "D",
+    "age": " 26",
+    "team": "Carolina Hurricanes",
+    "born": " USA",
+    "shoots": " Right"
+  },
+  {
+    "name": "Colton White",
+    "position": "D",
+    "age": " 25",
+    "team": "Anaheim Ducks",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Alexandar Georgiev",
+    "position": "G",
+    "age": " 26",
+    "team": "Colorado Avalanche",
+    "born": " BGR",
+    "shoots": ": Left"
+  },
+  {
+    "name": "Juuse Saros",
+    "position": "G",
+    "age": " 27",
+    "team": "Nashville Predators",
+    "born": " FIN",
+    "shoots": ": Left"
+  },
+  {
+    "name": "Philipp Grubauer",
+    "position": "G",
+    "age": " 30",
+    "team": "Seattle Kraken",
+    "born": " DEU",
+    "shoots": ": Left"
+  },
+  {
+    "name": "Darcy Kuemper",
+    "position": "G",
+    "age": " 32",
+    "team": "Washington Capitals",
+    "born": " CAN",
+    "shoots": ": Left"
+  },
+  {
+    "name": "Thomas Greiss",
+    "position": "G",
+    "age": " 36",
+    "team": "St. Louis Blues",
+    "born": " DEU",
+    "shoots": ": Left"
+  },
+  {
+    "name": "Jake Allen",
+    "position": "G",
+    "age": " 32",
+    "team": "Montréal Canadiens",
+    "born": " CAN",
+    "shoots": ": Left"
+  },
+  {
+    "name": "Martin Jones",
+    "position": "G",
+    "age": " 32",
+    "team": "Seattle Kraken",
+    "born": " CAN",
+    "shoots": ": Left"
+  },
+  {
+    "name": "Owen Power",
+    "position": "D",
+    "age": " 19",
+    "team": "Buffalo Sabres",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Mason McTavish",
+    "position": "C",
+    "age": " 19",
+    "team": "Anaheim Ducks",
+    "born": " CHE",
+    "shoots": " Left"
+  },
+  {
+    "name": "Jack McBain",
+    "position": "C",
+    "age": " 22",
+    "team": "Arizona Coyotes",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Martin Kaut",
+    "position": "RW",
+    "age": " 23",
+    "team": "Colorado Avalanche",
+    "born": " CZE",
+    "shoots": " Right"
+  },
+  {
+    "name": "Olli Juolevi",
+    "position": "D",
+    "age": " 24",
+    "team": "Anaheim Ducks",
+    "born": " FIN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Hayden Hodgson",
+    "position": "RW",
+    "age": " 26",
+    "team": "Philadelphia Flyers",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Nick Blankenburg",
+    "position": "D",
+    "age": " 24",
+    "team": "Columbus Blue Jackets",
+    "born": " USA",
+    "shoots": " Right"
+  },
+  {
+    "name": "Carson Meyer",
+    "position": "RW",
+    "age": " 25",
+    "team": "Columbus Blue Jackets",
+    "born": " USA",
+    "shoots": " Right"
+  },
+  {
+    "name": "Aleksi Heponiemi",
+    "position": "C",
+    "age": " 23",
+    "team": "Florida Panthers",
+    "born": " FIN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Jack Rathbone",
+    "position": "D",
+    "age": " 23",
+    "team": "Vancouver Canucks",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Benoit-Olivier Groulx",
+    "position": "C",
+    "age": " 22",
+    "team": "Anaheim Ducks",
+    "born": " FRA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Philip Broberg",
+    "position": "D",
+    "age": " 21",
+    "team": "Edmonton Oilers",
+    "born": " SWE",
+    "shoots": " Left"
+  },
+  {
+    "name": "Steven Fogarty",
+    "position": "C",
+    "age": " 29",
+    "team": "Minnesota Wild",
+    "born": " USA",
+    "shoots": " Right"
+  },
+  {
+    "name": "Vladislav Kolyachonok",
+    "position": "D",
+    "age": " 21",
+    "team": "Arizona Coyotes",
+    "born": " BLR",
+    "shoots": " Left"
+  },
+  {
+    "name": "Tyler Benson",
+    "position": "LW",
+    "age": " 24",
+    "team": "Edmonton Oilers",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Hudson Fasching",
+    "position": "RW",
+    "age": " 27",
+    "team": "New York Islanders",
+    "born": " USA",
+    "shoots": " Right"
+  },
+  {
+    "name": "Jonah Gadjovich",
+    "position": "LW",
+    "age": " 23",
+    "team": "San Jose Sharks",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Connor Bunnaman",
+    "position": "C",
+    "age": " 24",
+    "team": "Florida Panthers",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Kent Johnson",
+    "position": "C",
+    "age": " 19",
+    "team": "Columbus Blue Jackets",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Austin Strand",
+    "position": "D",
+    "age": " 25",
+    "team": "Anaheim Ducks",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Jeremy Davies",
+    "position": "D",
+    "age": " 25",
+    "team": "Buffalo Sabres",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Dan Renouf",
+    "position": "D",
+    "age": " 28",
+    "team": "Boston Bruins",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Kevin Lankinen",
+    "position": "G",
+    "age": " 27",
+    "team": "Nashville Predators",
+    "born": " FIN",
+    "shoots": ": Left"
+  },
+  {
+    "name": "Dustin Tokarski",
+    "position": "G",
+    "age": " 33",
+    "team": "Pittsburgh Penguins",
+    "born": " CAN",
+    "shoots": ": Left"
+  },
+  {
+    "name": "Jake Oettinger",
+    "position": "G",
+    "age": " 23",
+    "team": "Dallas Stars",
+    "born": " USA",
+    "shoots": ": Left"
+  },
+  {
+    "name": "Calvin Pickard",
+    "position": "G",
+    "age": " 30",
+    "team": "Edmonton Oilers",
+    "born": " CAN",
+    "shoots": ": Left"
+  },
+  {
+    "name": "Elvis Merzlikins",
+    "position": "G",
+    "age": " 28",
+    "team": "Columbus Blue Jackets",
+    "born": " LVA",
+    "shoots": ": Left"
+  },
+  {
+    "name": "Thatcher Demko",
+    "position": "G",
+    "age": " 26",
+    "team": "Vancouver Canucks",
+    "born": " USA",
+    "shoots": ": Left"
+  },
+  {
+    "name": "Keith Kinkaid",
+    "position": "G",
+    "age": " 33",
+    "team": "Boston Bruins",
+    "born": " USA",
+    "shoots": ": Left"
+  },
+  {
+    "name": "Antti Raanta",
+    "position": "G",
+    "age": " 33",
+    "team": "Carolina Hurricanes",
+    "born": " FIN",
+    "shoots": ": Left"
+  },
+  {
+    "name": "Petr Mrazek",
+    "position": "G",
+    "age": " 30",
+    "team": "Chicago Blackhawks",
+    "born": " CZE",
+    "shoots": ": Left"
+  },
+  {
+    "name": "James Reimer",
+    "position": "G",
+    "age": " 34",
+    "team": "San Jose Sharks",
+    "born": " CAN",
+    "shoots": ": Left"
+  },
+  {
+    "name": "Jack Drury",
+    "position": "C",
+    "age": " 22",
+    "team": "Carolina Hurricanes",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Paul Cotter",
+    "position": "C",
+    "age": " 22",
+    "team": "Vegas Golden Knights",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Jack Quinn",
+    "position": "RW",
+    "age": " 21",
+    "team": "Buffalo Sabres",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Trey Fix-Wolansky",
+    "position": "RW",
+    "age": " 23",
+    "team": "Columbus Blue Jackets",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Riley Damiani",
+    "position": "C",
+    "age": " 22",
+    "team": "Dallas Stars",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Justin Barron",
+    "position": "D",
+    "age": " 20",
+    "team": "Montréal Canadiens",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Jake Neighbours",
+    "position": "LW",
+    "age": " 20",
+    "team": "St. Louis Blues",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Kristian Reichel",
+    "position": "C",
+    "age": " 24",
+    "team": "Winnipeg Jets",
+    "born": " CZE",
+    "shoots": " Right"
+  },
+  {
+    "name": "Alex Vlasic",
+    "position": "D",
+    "age": " 21",
+    "team": "Chicago Blackhawks",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Jackson Cates",
+    "position": "C",
+    "age": " 25",
+    "team": "Philadelphia Flyers",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Matt Kiersted",
+    "position": "D",
+    "age": " 24",
+    "team": "Florida Panthers",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Rhett Gardner",
+    "position": "C",
+    "age": " 26",
+    "team": "Dallas Stars",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Andrew Poturalski",
+    "position": "C",
+    "age": " 28",
+    "team": "Seattle Kraken",
+    "born": " USA",
+    "shoots": " Right"
+  },
+  {
+    "name": "Alexander Holtz",
+    "position": "RW",
+    "age": " 20",
+    "team": "New Jersey Devils",
+    "born": " SWE",
+    "shoots": " Right"
+  },
+  {
+    "name": "Santeri Hatakka",
+    "position": "D",
+    "age": " 21",
+    "team": "San Jose Sharks",
+    "born": " FIN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Kyle Criscuolo",
+    "position": "C",
+    "age": " 30",
+    "team": "Detroit Red Wings",
+    "born": " USA",
+    "shoots": " Right"
+  },
+  {
+    "name": "Jacob Moverare",
+    "position": "D",
+    "age": " 24",
+    "team": "Los Angeles Kings",
+    "born": " SWE",
+    "shoots": " Left"
+  },
+  {
+    "name": "Dillon Heatherington",
+    "position": "D",
+    "age": " 27",
+    "team": "Ottawa Senators",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Otto Koivula",
+    "position": "LW",
+    "age": " 24",
+    "team": "New York Islanders",
+    "born": " FIN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Anthony Stolarz",
+    "position": "G",
+    "age": " 28",
+    "team": "Anaheim Ducks",
+    "born": " USA",
+    "shoots": ": Left"
+  },
+  {
+    "name": "Chris Driedger",
+    "position": "G",
+    "age": " 28",
+    "team": "Seattle Kraken",
+    "born": " CAN",
+    "shoots": ": Left"
+  },
+  {
+    "name": "Jack Campbell",
+    "position": "G",
+    "age": " 30",
+    "team": "Edmonton Oilers",
+    "born": " USA",
+    "shoots": ": Left"
+  },
+  {
+    "name": "Louis Domingue",
+    "position": "G",
+    "age": " 30",
+    "team": "New York Rangers",
+    "born": " CAN",
+    "shoots": ": Right"
+  },
+  {
+    "name": "Linus Ullmark",
+    "position": "G",
+    "age": " 29",
+    "team": "Boston Bruins",
+    "born": " SWE",
+    "shoots": ": Left"
+  },
+  {
+    "name": "Jordan Binnington",
+    "position": "G",
+    "age": " 29",
+    "team": "St. Louis Blues",
+    "born": " CAN",
+    "shoots": ": Left"
+  },
+  {
+    "name": "Joonas Korpisalo",
+    "position": "G",
+    "age": " 28",
+    "team": "Columbus Blue Jackets",
+    "born": " FIN",
+    "shoots": ": Left"
+  },
+  {
+    "name": "Garrett Pilon",
+    "position": "C",
+    "age": " 24",
+    "team": "Washington Capitals",
+    "born": " USA",
+    "shoots": " Right"
+  },
+  {
+    "name": "Bokondji Imama",
+    "position": "LW",
+    "age": " 26",
+    "team": "Arizona Coyotes",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Rafael Harvey-Pinard",
+    "position": "LW",
+    "age": " 23",
+    "team": "Montréal Canadiens",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Ben Meyers",
+    "position": "C",
+    "age": " 23",
+    "team": "Colorado Avalanche",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Hendrix Lapierre",
+    "position": "C",
+    "age": " 20",
+    "team": "Washington Capitals",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Jack Ahcan",
+    "position": "D",
+    "age": " 25",
+    "team": "Boston Bruins",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Nick Abruzzese",
+    "position": "C",
+    "age": " 23",
+    "team": "Toronto Maple Leafs",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Riley Tufte",
+    "position": "LW",
+    "age": " 24",
+    "team": "Dallas Stars",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Gabriel Fortier",
+    "position": "LW",
+    "age": " 22",
+    "team": "Tampa Bay Lightning",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Jordan Harris",
+    "position": "D",
+    "age": " 22",
+    "team": "Montréal Canadiens",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Beck Malenstyn",
+    "position": "LW",
+    "age": " 24",
+    "team": "Washington Capitals",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Grant Hutton",
+    "position": "D",
+    "age": " 27",
+    "team": "New York Islanders",
+    "born": " USA",
+    "shoots": " Right"
+  },
+  {
+    "name": "Alec Regula",
+    "position": "D",
+    "age": " 22",
+    "team": "Chicago Blackhawks",
+    "born": " USA",
+    "shoots": " Right"
+  },
+  {
+    "name": "David Gustafsson",
+    "position": "C",
+    "age": " 22",
+    "team": "Winnipeg Jets",
+    "born": " SWE",
+    "shoots": " Left"
+  },
+  {
+    "name": "Cale Fleury",
+    "position": "D",
+    "age": " 23",
+    "team": "Seattle Kraken",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Lucas Johansen",
+    "position": "D",
+    "age": " 24",
+    "team": "Washington Capitals",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Reilly Walsh",
+    "position": "D",
+    "age": " 23",
+    "team": "New Jersey Devils",
+    "born": " USA",
+    "shoots": " Right"
+  },
+  {
+    "name": "Valtteri Puustinen",
+    "position": "RW",
+    "age": " 23",
+    "team": "Pittsburgh Penguins",
+    "born": " FIN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Justus Annunen",
+    "position": "G",
+    "age": " 22",
+    "team": "Colorado Avalanche",
+    "born": " FIN",
+    "shoots": ": Left"
+  },
+  {
+    "name": "Joel Hofer",
+    "position": "G",
+    "age": " 22",
+    "team": "St. Louis Blues",
+    "born": " CAN",
+    "shoots": ": Left"
+  },
+  {
+    "name": "Turner Elson",
+    "position": "C",
+    "age": " 30",
+    "team": "New York Rangers",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Adam Beckman",
+    "position": "LW",
+    "age": " 21",
+    "team": "Minnesota Wild",
+    "born": " CAN",
+    "shoots": " Left"
+  },
+  {
+    "name": "Mattias Norlinder",
+    "position": "D",
+    "age": " 22",
+    "team": "Montréal Canadiens",
+    "born": " SWE",
+    "shoots": " Left"
+  },
+  {
+    "name": "Cooper Marody",
+    "position": "C",
+    "age": " 25",
+    "team": "Philadelphia Flyers",
+    "born": " USA",
+    "shoots": " Right"
+  },
+  {
+    "name": "Glenn Gawdin",
+    "position": "C",
+    "age": " 25",
+    "team": "Anaheim Ducks",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Tyce Thompson",
+    "position": "RW",
+    "age": " 23",
+    "team": "New Jersey Devils",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Daniil Miromanov",
+    "position": "D",
+    "age": " 25",
+    "team": "Vegas Golden Knights",
+    "born": " RUS",
+    "shoots": " Right"
+  },
+  {
+    "name": "Lukas Reichel",
+    "position": "LW",
+    "age": " 20",
+    "team": "Chicago Blackhawks",
+    "born": " DEU",
+    "shoots": " Left"
+  },
+  {
+    "name": "Alex Belzile",
+    "position": "RW",
+    "age": " 31",
+    "team": "Montréal Canadiens",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Jacob Bernard-Docker",
+    "position": "D",
+    "age": " 22",
+    "team": "Ottawa Senators",
+    "born": " CAN",
+    "shoots": " Right"
+  },
+  {
+    "name": "Josiah Slavin",
+    "position": "LW",
+    "age": " 23",
+    "team": "Chicago Blackhawks",
+    "born": " USA",
+    "shoots": " Left"
+  },
+  {
+    "name": "Eric Comrie",
+    "position": "G",
+    "age": " 27",
+    "team": "Buffalo Sabres",
+    "born": " CAN",
+    "shoots": ": Left"
+  },
+  {
+    "name": "Pheonix Copley",
+    "position": "G",
+    "age": " 30",
+    "team": "Los Angeles Kings",
+    "born": " USA",
+    "shoots": ": Left"
+  },
+  {
+    "name": "Jon Gillies",
+    "position": "G",
+    "age": " 28",
+    "team": "Arizona Coyotes",
+    "born": " USA",
+    "shoots": ": Left"
+  }
+]
